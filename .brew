@@ -76,6 +76,10 @@ installcask transmission
 installcask ukelele
 installcask virtualbox
 installcask vlc
+installcask divvy
+installcask jumpcut
+installcask adium
+
 
 # Remove outdated versions from the cellar
 brew cleanup
