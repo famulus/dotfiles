@@ -1,11 +1,30 @@
 sublime dot files 
+	the actual sublime pref folder: ~/Library/Application Support/Sublime Text 2/
+	move them to dot-files
+	symlink from dot files to original directory
+	do I need to manually install package manager?
+
+
 
 ruby dot files
 
 divvy and jumpcut startup items
+	open /Applications/Jumpcut.app/
+	https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/launchctl.1.html
+	sudo launchctl submit -l start_divvy -- open /Applications/Jumpcut.app/
+
 
 divvy license
 
 sublime license
 
 some prefs are not engaging, like click to tap and Disable Resume system-wide
+
+terminal: new windows open with same working directory
+
+update dock items
+
+tor browser: sha mismatch
+
+make arrow larger
+	didnt' work

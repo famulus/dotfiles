@@ -1,0 +1,24 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"CoffeeScript",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"FileDiffs",
+		"Gist",
+		"Git",
+		"HtmlTidy",
+		"Markdown Preview",
+		"Package Control",
+		"Rails Latest Migration",
+		"Rails Partial",
+		"Ruby 1.9 Hash Converter",
+		"SideBarEnhancements",
+		"Simple Rails Navigator",
+		"Sublime-HTMLPrettify",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}

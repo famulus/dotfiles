@@ -80,6 +80,8 @@ installcask divvy
 installcask jumpcut
 installcask adium
 
+# add a login hook to start divvy and jumpcut on login
+# sudo defaults write com.apple.loginwindow LoginHook ~/.login_hook.sh
 
 # Remove outdated versions from the cellar
 brew cleanup

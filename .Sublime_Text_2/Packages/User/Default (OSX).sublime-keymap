@@ -1,0 +1,8 @@
+[
+  { "keys": ["ctrl+shift+."], "command": "erb" },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+  { "keys": ["ctrl+r"], "command": "reveal_in_side_bar" },
+  { "keys": ["super+alt+i"], "command": "reindent" }
+
+]

@@ -1,0 +1,6937 @@
+{
+	"folder_history":
+	[
+		"/Users/204451/Documents/griddle_numodal",
+		"/Users/204451/Documents/grandmominator",
+		"/Users/204451/Documents/blade-chef",
+		"/Users/204451/Documents/timeline",
+		"/Users/204451/Documents/multimedia_svn",
+		"/Users/204451/Documents/grid_gallery_reboot",
+		"/usr/local/rvm/gems/ruby-1.9.3-p327/gems/rest-client-1.6.7",
+		"/Users/204451/Documents/lasso",
+		"/Users/204451/Documents/blade-chef/data_bags",
+		"/Users/204451/Documents/flashmob",
+		"/Users/204451/Documents/newstuffy",
+		"/Users/204451/Documents/mod",
+		"/Users/204451/nyt",
+		"/Users/204451/Documents/responsive-interactive",
+		"/Users/204451/Documents/blade-chef/data_bags/apps",
+		"/Users/204451/Documents/blade",
+		"/Users/204451/Documents/example-jquery-shim",
+		"/Users/204451/Documents/require_js_test",
+		"/Users/204451/Documents/appdash/analogue",
+		"/Users/204451/Documents/appdash/infrastructure",
+		"/Users/204451/Documents/appdash",
+		"/Users/204451/Documents/bigboard",
+		"/Users/204451",
+		"/usr/local/rvm/gems/ruby-1.9.3-p327@newstuffy/gems/nytcookie-0.7.0/lib",
+		"/Users/204451/Documents/20130411-korea-faq",
+		"/Users/204451/Documents/int_utils",
+		"/usr/local/rvm/gems/ruby-1.9.3-p327@timeline_tool/gems/int_utils-0.5.13/lib",
+		"/Users/204451/Documents/annotator",
+		"/usr/local/rvm/gems/ree-1.8.7-2011.12/gems/file_publisher-0.6.7/lib",
+		"/Users/204451/Documents/irbtab",
+		"/usr/local/rvm/gems/ree-1.8.7-2011.12",
+		"/usr/local/rvm/gems/ree-1.8.7-2011.12@timeline_tool",
+		"/Users/204451/Documents/pourover",
+		"/Users/204451/Documents/mmadmin",
+		"/Users/204451/Documents/irbcp",
+		"/Users/204451/Documents/promo-viewer",
+		"/Users/204451/Documents/promos/2013_oscars",
+		"/Users/204451/Documents/multimedia_svn/svn",
+		"/Users/204451/Documents/relative_root",
+		"/usr/local/rvm/gems/ree-1.8.7-2011.12/gems/int_utils-0.5.7/lib",
+		"/Users/204451/Documents/homepage_slideshow",
+		"/Users/204451/Documents/old_timeline/trunk",
+		"/Users/204451/Documents/rails",
+		"/Users/204451/Documents/ajax_rails31_demo",
+		"/Users/204451/Documents/Basic-Rails-CRUD",
+		"/Users/204451/Documents/olympics_2012",
+		"/Users/204451/Documents/acts_as_list",
+		"/Users/204451/Documents/mmadmin/vendor",
+		"/Users/204451/Documents/mmadmin/tmp",
+		"/Users/204451/Documents/mmadmin/spec",
+		"/Users/204451/Documents/mmadmin/script",
+		"/Users/204451/Documents/mmadmin/public",
+		"/Users/204451/Documents/mmadmin/log",
+		"/Users/204451/Documents/mmadmin/lib",
+		"/Users/204451/Documents/mmadmin/features",
+		"/Users/204451/Documents/mmadmin/doc",
+		"/Users/204451/Documents/mmadmin/db",
+		"/Users/204451/Documents/mmadmin/config",
+		"/Users/204451/Documents/mmadmin/app",
+		"/Users/204451/Downloads/jQuery-Validate-Example-COMPLETE",
+		"/Users/204451/Documents/int_utils-0.5.5",
+		"/Users/204451/Documents/int_utils-0.5.2",
+		"/Users/204451/Documents/mmadmin/int_utils-0.5.2",
+		"/Users/204451/Library/Application Support/Sublime Text 2/Packages/ERB Insert and Toggle Commands"
+	],
+	"last_window_id": 339,
+	"settings":
+	{
+		"new_window_height": 752.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"prc",
+						"procedures"
+					],
+					[
+						"answer",
+						"answer_"
+					],
+					[
+						"track",
+						"track_event"
+					],
+					[
+						"cost",
+						"cost_guess"
+					],
+					[
+						"sub",
+						"submissions"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"mo",
+						"modalon"
+					],
+					[
+						"modal",
+						"modalon"
+					],
+					[
+						"repla",
+						"replaceState"
+					],
+					[
+						"sli",
+						"slideshow_title"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"sl",
+						"slideshow_title"
+					],
+					[
+						"slideshow",
+						"slideshow_play"
+					],
+					[
+						"nu",
+						"numodal_wrapper"
+					],
+					[
+						"ba",
+						"background-repeat"
+					],
+					[
+						"cha",
+						"chapterBreaks"
+					],
+					[
+						"sho",
+						"short_question"
+					],
+					[
+						"err",
+						"error_message"
+					],
+					[
+						"wor",
+						"word_count_valid"
+					],
+					[
+						"word",
+						"word_count_error_string"
+					],
+					[
+						"loc",
+						"location_error_string"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"rem",
+						"removeClass"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"preload",
+						"preloadFadePage"
+					],
+					[
+						"prelo",
+						"preloadFadePage"
+					],
+					[
+						"prel",
+						"preloadFadePage"
+					],
+					[
+						"numodal_b",
+						"numodal_backward"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"tim",
+						"timeline"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"res",
+						"responses"
+					],
+					[
+						"a",
+						"arial"
+					],
+					[
+						"ins",
+						"instructions"
+					],
+					[
+						"resp",
+						"response_copy"
+					],
+					[
+						"slid",
+						"slider_integer"
+					],
+					[
+						"ques",
+						"question_0_response_text"
+					],
+					[
+						"sa",
+						"sample_question_0_json"
+					],
+					[
+						"com",
+						"compacted"
+					],
+					[
+						"hid",
+						"gmom_hidden_html"
+					],
+					[
+						"qu",
+						"question_0_html"
+					],
+					[
+						"col",
+						"colonscopy"
+					],
+					[
+						"gr",
+						"groups"
+					],
+					[
+						"sc",
+						"schema"
+					],
+					[
+						"form",
+						"form_submit"
+					],
+					[
+						"ano",
+						"another_proceedure"
+					],
+					[
+						"an",
+						"answer"
+					],
+					[
+						"demo",
+						"demographics_stage"
+					],
+					[
+						"dem",
+						"demographics_stage"
+					],
+					[
+						"coll",
+						"collapse_comment"
+					],
+					[
+						"slide",
+						"slideUp"
+					],
+					[
+						"is",
+						"is_valid"
+					],
+					[
+						"no",
+						"submit_no_thanks"
+					],
+					[
+						"fin",
+						"finalize_comment"
+					],
+					[
+						"que",
+						"questions"
+					],
+					[
+						"de",
+						"demographics_stage"
+					],
+					[
+						"ex",
+						"except_question"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"lo",
+						"location"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"width",
+						"width"
+					],
+					[
+						"th",
+						"thank_you"
+					],
+					[
+						"su",
+						"submit3"
+					],
+					[
+						"q",
+						"question2_submit1"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"wo",
+						"word_count2"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"S",
+						"success"
+					],
+					[
+						"e",
+						"element"
+					],
+					[
+						"ini",
+						"init_slider"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"co",
+						"count"
+					],
+					[
+						"dele",
+						"deselectItems"
+					],
+					[
+						"comm",
+						"comment_div"
+					],
+					[
+						"id",
+						"id_selector"
+					],
+					[
+						"cu",
+						"current_bucket"
+					],
+					[
+						"comment",
+						"comment_id"
+					],
+					[
+						"buck",
+						"bucket"
+					],
+					[
+						"pro",
+						"project_id"
+					],
+					[
+						"pr",
+						"project"
+					],
+					[
+						"las",
+						"lasso_bucket_select"
+					],
+					[
+						"opti",
+						"select_options"
+					],
+					[
+						"bucke",
+						"bucket_id"
+					],
+					[
+						"re",
+						"refresh_bucket_select"
+					],
+					[
+						"bucket",
+						"bucket_ids"
+					],
+					[
+						"lass",
+						"lasso_project_select"
+					],
+					[
+						"bin",
+						"bind_to_project_select"
+					],
+					[
+						"sle",
+						"select_html"
+					],
+					[
+						"sel",
+						"select_options"
+					],
+					[
+						"proj",
+						"project"
+					],
+					[
+						"tem",
+						"template_name"
+					],
+					[
+						"show",
+						"show_image"
+					],
+					[
+						"targ",
+						"target_dom"
+					],
+					[
+						"ta",
+						"target_dom"
+					],
+					[
+						"tar",
+						"target_dom"
+					],
+					[
+						"pos",
+						"poster_caption"
+					],
+					[
+						"to_",
+						"to_json"
+					],
+					[
+						"par",
+						"partial_client_message"
+					],
+					[
+						"cli",
+						"client_id"
+					],
+					[
+						"options",
+						"options_for_select"
+					],
+					[
+						"esca",
+						"escape_html"
+					],
+					[
+						"phot",
+						"photo_crop"
+					],
+					[
+						"photo",
+						"photo_id"
+					],
+					[
+						"se",
+						"set_serial"
+					],
+					[
+						"cre",
+						"create_chute_album"
+					],
+					[
+						"form_",
+						"form_elements"
+					],
+					[
+						"text",
+						"text_area"
+					],
+					[
+						"up",
+						"upload_services"
+					],
+					[
+						"qa",
+						"qa_updated"
+					],
+					[
+						"slidesh",
+						"slideshow_container"
+					],
+					[
+						"background",
+						"background-image"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"set",
+						"setupShareTools"
+					],
+					[
+						"ret",
+						"return_object"
+					],
+					[
+						"anno",
+						"annotation"
+					],
+					[
+						"pic",
+						"pictures"
+					],
+					[
+						"script",
+						"script_tags"
+					],
+					[
+						"man",
+						"mainifest"
+					],
+					[
+						"data_source_",
+						"data_source_type"
+					],
+					[
+						"pre",
+						"preimg"
+					],
+					[
+						"cate",
+						"category"
+					],
+					[
+						"cat",
+						"category"
+					],
+					[
+						"has",
+						"has_query_param"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"selected_items":
+				[
+					[
+						"push",
+						"Git: Push Current Branch"
+					],
+					[
+						"sta",
+						"Git: Status"
+					],
+					[
+						"qui",
+						"Git: Quick Commit"
+					],
+					[
+						"show",
+						"Git: Show Current File"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"latest",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"pretty",
+						"HTMLPrettify: Prettify"
+					],
+					[
+						"log",
+						"Git: Log Current File"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"sho",
+						"Git: Show Current File"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"wrap",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"case",
+						"Convert Case: Upper Case"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"CAS",
+						"Convert Case: Lower Case"
+					],
+					[
+						"CASE",
+						"Convert Case: Title Case"
+					],
+					[
+						"wrao",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"pack",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"SHOW",
+						"Git: Show Current File"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"rails",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"parti",
+						"Rails Partial: Create Partial from Text"
+					],
+					[
+						"lates",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"lint",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"tid",
+						"Tidy HTML"
+					],
+					[
+						"ti",
+						"Tidy HTML"
+					],
+					[
+						"lat",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"part",
+						"Rails Partial: Create Partial from Text"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"late",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"jac",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"quic",
+						"Git: Quick Commit"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"lin",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"oack",
+						"Package Control: List Packages"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"pac ins",
+						"Package Control: Install Package"
+					],
+					[
+						"log c",
+						"Git: Log Current File"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"la",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"re in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pull",
+						"Git: Pull Current Branch"
+					],
+					[
+						"git  re",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"git q",
+						"Git: Quick Commit"
+					],
+					[
+						"git rese",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git show",
+						"Git: Show Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"show err",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pack lis",
+						"Package Control: List Packages"
+					],
+					[
+						"pacl",
+						"Package Control: Enable Package"
+					],
+					[
+						"packag",
+						"Package Control: Disable Package"
+					],
+					[
+						"sim",
+						"Simple Rails Navigator: List views"
+					],
+					[
+						"simple",
+						"Simple Rails Navigator: List controllers"
+					],
+					[
+						"git ",
+						"Git: Quick Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"gist:",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"git di",
+						"Git: Diff All"
+					],
+					[
+						"git b",
+						"Git: Blame"
+					],
+					[
+						"git  stat",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/204451/.ssh/config",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/timeline.css",
+				"/Users/204451/Documents/multimedia_svn/HTML/projects/2012/ConventionHangouts/README.txt",
+				"/Users/204451/Documents/grandmominator/lib/tasks/procedures.rake",
+				"/Users/204451/Documents/grandmominator/Gemfile",
+				"/Users/204451/Documents/grandmominator/Guardfile",
+				"/Users/204451/Documents/grandmominator/db/migrate/20130624201607_add_moderated_at_to_submissions.rb",
+				"/Users/204451/Documents/grandmominator/db/migrate/20130617205428_add_submission_groups.rb",
+				"/Users/204451/Documents/grandmominator/lib/tasks/publish.rake",
+				"/Users/204451/Documents/grandmominator/public/projects/procedures/colonoscopy.html",
+				"/Users/204451/Documents/grandmominator/public/projects/procedures/concat.sh",
+				"/Users/204451/Documents/grandmominator/lib/tasks/proceedures.rake",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/frontend/Timeline.js",
+				"/Users/204451/Documents/timeline/app/models/timeline.rb",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/numodal_default.jst.ejs",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/numodal.js",
+				"/Users/204451/Documents/griddle_numodal/embed_builder_test.html",
+				"/Users/204451/Documents/griddle_numodal/src/stylesheets/numodal.css",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/phototransformer.js",
+				"/Users/204451/Documents/griddle_numodal/Gemfile",
+				"/Users/204451/Documents/griddle_numodal/Rakefile",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/colonoscopy.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/coffeescripts/colonoscopy.coffee",
+				"/Users/204451/Documents/lasso/config/mongoid.yml",
+				"/Users/204451/Documents/lasso/app/views/projects/bookmarklets.html.erb",
+				"/Users/204451/Documents/lasso/config/environments/production.rb",
+				"/Users/204451/Documents/lasso/app/views/projects/_comment_placer_bookmarklet.js.erb",
+				"/Users/204451/Documents/lasso/config/application.rb",
+				"/Users/204451/Documents/lasso/public/assets/comment_placer_viewer.css",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_picker.js",
+				"/Users/204451/Documents/lasso/app/assets/coffeescripts/comment_picker.coffee",
+				"/Users/204451/Documents/lasso/Guardfile",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_picker_app.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_placer_admin.js",
+				"/Users/204451/Documents/lasso/app/assets/coffeescripts/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/lasso/app/assets/coffeescript/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/grandmominator/app/views/admin/index.html.erb",
+				"/Users/204451/Documents/grid_gallery_reboot/src/stylesheets/numodal.css",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/numodal.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/images_loaded.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/nytint-base.js",
+				"/Users/204451/Documents/grid_gallery_reboot/embed_builder_test.html",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/pourover.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/backbone-1.0.0.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/numodal.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/nytint-base-45670d3764a43be0e295a19eeea0170b.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/nytint-base-f0af59521b317aef732d98893caf7a34.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/griddle-3ef51e53c7c1949d7f95b5784e85f79c.js",
+				"/Users/204451/Documents/lasso/vendor/assets/javascripts/.keep",
+				"/Users/204451/Documents/lasso/.gitignore",
+				"/Users/204451/Documents/lasso/config/environments/development.rb",
+				"/Users/204451/Documents/lasso/app/assets/images/lasso_comment_picker.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/lasso_comment_placer.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/application.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/stylesheets/colonoscopy.css",
+				"/Users/204451/Documents/timeline/app/controllers/publish_controller.rb",
+				"/Users/204451/Documents/timeline/config/routes.rb",
+				"/Users/204451/Documents/timeline/app/views/timelines/show.html.erb",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/annotations.js.erb",
+				"/Users/204451/Documents/timeline/config/environments/production.rb",
+				"/Users/204451/Documents/timeline/.rvmrc",
+				"/Users/204451/Documents/timeline/Gemfile",
+				"/Users/204451/Documents/timeline/Guardfile",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/bootstrap.js",
+				"/Users/204451/Documents/blade-chef/data_bags/apps/flashmob.json",
+				"/Users/204451/Documents/flashmob/app/controllers/admin_controller.rb",
+				"/Users/204451/Downloads/manifest.yml",
+				"/Users/204451/Documents/grandmominator copy/public/projects/proceedures/javascripts/colonoscopy.js",
+				"/Users/204451/Documents/timeline/config/application.rb",
+				"/Users/204451/Documents/timeline/config/environments/internal_production.rb",
+				"/Users/204451/Documents/timeline/app/views/publish/vertical/preview.html.erb",
+				"/Users/204451/Documents/timeline/config/database.yml",
+				"/Users/204451/Documents/grandmominator/build.sh",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/chapter_tracking.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/concat.sh",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/nyt.html",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/colonoscopy.html",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/jquery.wordcount.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/minified/procedures1.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/comments.js",
+				"/Users/204451/Documents/grandmominator/config/application.rb",
+				"/Users/204451/Documents/grandmominator/app/views/layouts/error.html.erb",
+				"/etc/hosts",
+				"/Users/204451/Documents/grandmominator/app/models/submission.rb",
+				"/Users/204451/Documents/grandmominator/app/models/project.rb",
+				"/Users/204451/Documents/grandmominator/app/views/submission/_collect.html.erb",
+				"/Users/204451/Documents/grandmominator/.rvmrc",
+				"/Users/204451/Documents/grandmominator/vendor/cache/multi_json-1.7.3.gem",
+				"/Users/204451/Documents/lasso/Gemfile",
+				"/Users/204451/Documents/lasso/app/models/item.rb",
+				"/Users/204451/Documents/lasso/public/stylesheets/bookmarklet_payload.css",
+				"/Users/204451/Documents/lasso/app/controllers/buckets_controller.rb",
+				"/Users/204451/Documents/lasso/app/controllers/items_controller.rb",
+				"/Users/204451/Documents/lasso/config/routes.rb",
+				"/Users/204451/Documents/lasso/public/coffeescript/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/lasso/app/controllers/projects_controller.rb",
+				"/Users/204451/Documents/lasso/public/stylesheets/namespaced_bootstrap.css",
+				"/Users/204451/Documents/lasso/app/models/project.rb",
+				"/Users/204451/Documents/lasso/public/javascripts/bookmarklet_loader.js",
+				"/Users/204451/Documents/lasso/public/javascripts/bookmarklet_payload.js",
+				"/Users/204451/Documents/lasso/app/models/bucket.rb",
+				"/Users/204451/Documents/lasso/app/models/comment_api.rb",
+				"/Users/204451/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/204451/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/bookmarklet_loader.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/bookmarklet_payload.js",
+				"/Users/204451/Documents/lasso/app/assets",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/annotations.css",
+				"/Users/204451/Documents/timeline/README.md",
+				"/Users/204451/Documents/timeline/README.rdoc",
+				"/Users/204451/Documents/blade-chef/data_bags/apps/infrastructure.json",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/griddle_default.jst.ejs",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/require.js",
+				"/Users/204451/Documents/grid_gallery_reboot/griddle.html",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/griddle.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/phototransformer.js",
+				"/Users/204451/Documents/grid_gallery_reboot/embed_builder.html",
+				"/Users/204451/Documents/grid_gallery_reboot/slideshow.html",
+				"/Users/204451/Documents/grid_gallery_reboot/.gitignore",
+				"/Users/204451/Documents/grid_gallery_reboot/grid_gallery_reboot.sublime-project",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/griddle_category_default.jst.ejs",
+				"/Users/204451/Documents/grid_gallery_reboot/Gemfile",
+				"/Users/204451/Documents/grid_gallery_reboot/build/griddle-b3512aa2949f16e82afe21f26cf877a8.js",
+				"/Users/204451/Documents/grid_gallery_reboot/books.html",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/numodal_default.jst.ejs",
+				"/Users/204451/Documents/appdash/analogue/lib/analogue/version.rb",
+				"/Users/204451/Documents/appdash/analogue/analogue.gemspec",
+				"/Users/204451/Documents/appdash/infrastructure/config/routes.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"*.js",
+					"",
+					"question_response_0",
+					"",
+					"*erb",
+					"*.js",
+					"*.js.erb",
+					".js.erb",
+					"",
+					"app/views",
+					"",
+					"*",
+					"",
+					"app/view*",
+					"app/view",
+					"app/*",
+					"",
+					"app/*",
+					"",
+					"*erb",
+					"",
+					"*.rb",
+					".rb",
+					"",
+					"*frontend*.js",
+					"*.js",
+					".js",
+					"",
+					"*.css",
+					"",
+					"*timelinea*",
+					"",
+					"*.css",
+					"",
+					"*.js",
+					"",
+					"*.css",
+					".css",
+					"",
+					"*.css",
+					"",
+					"/Users/204451/Documents/mmadmin/app/",
+					"/Users/204451/Documents/mmadmin/app/views/timelineator",
+					"",
+					"*.css",
+					"",
+					"*.js",
+					"",
+					"app/*.erb",
+					"app/",
+					"",
+					"*.css",
+					"*",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"*",
+					"app/*",
+					"app*",
+					"/app*",
+					"",
+					"*js*",
+					"*.js",
+					"",
+					"*/app*",
+					"/app*",
+					"",
+					"*/javascripts/*",
+					"*",
+					"app/*",
+					"",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"*.css",
+					"*",
+					"*.rb",
+					"*",
+					"*.rb",
+					"*",
+					"*.erb",
+					"*",
+					"",
+					"interactives",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"console.lo",
+					"Non Feat",
+					"document_icon",
+					"graphic",
+					"image",
+					"grap",
+					"body",
+					"class",
+					"refer",
+					"partial_name",
+					"arti",
+					"non-fea",
+					"media",
+					"data_vault",
+					"data_valut",
+					"1069",
+					"procedures_span_graphic",
+					"51.203.44.com",
+					"localhost.nytimes",
+					"•",
+					"\\n+",
+					"\\n\\n",
+					"texta",
+					"procedure discussed\n",
+					"person_name",
+					"person_name\n",
+					"person_name",
+					"location",
+					"loca",
+					"location",
+					"where",
+					"form_submit",
+					"@submit_fields",
+					"submit_fields",
+					"answer",
+					"answer\n",
+					"greenwa",
+					"answer",
+					"@answer",
+					"answer",
+					"vform",
+					"form_submit",
+					"vform_submit",
+					"scott",
+					"form_submit",
+					"active_question",
+					"gmom_sid",
+					"scott",
+					"trac",
+					"\"",
+					"\"\n",
+					"\"",
+					"live",
+					"proceed",
+					"proceedures",
+					"procee",
+					"send",
+					"log",
+					"okok",
+					".data",
+					"push",
+					"bind",
+					"pop",
+					"location",
+					"push",
+					"upda",
+					"log",
+					"pushS",
+					"replaceS",
+					"pushS",
+					"updateUrl",
+					"replaceS",
+					"pushS",
+					"pushState",
+					"replaceState",
+					"view",
+					"bindPagers",
+					"' ",
+					" '",
+					"unbin",
+					"bind",
+					"clear",
+					"image",
+					"url",
+					"theme",
+					"bindEvents",
+					"numodal_opts",
+					"numodal_defaults",
+					"numodal_extension",
+					"makeModal",
+					"title",
+					"url",
+					"numodal_opts",
+					"numodal_defaults",
+					"\n\nnumodal_defaults",
+					"numodal_defaults\nnumodal_defaults",
+					"numodal_defaults\n",
+					"numodal_defaults",
+					"_",
+					"templa",
+					"modal",
+					"target-",
+					"image",
+					"numodal_image",
+					"numodal_im",
+					"all",
+					"dismis",
+					"dis",
+					"dism",
+					"dismi",
+					"trans",
+					"dismis",
+					"dis",
+					"share",
+					"numodal_share_icon",
+					"shareT",
+					"shar",
+					"share",
+					"commen",
+					"var",
+					"interactive-02procedures",
+					"log",
+					"@slugs[index]",
+					"@slug[index]",
+					"track",
+					"man",
+					"track_event",
+					"_"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\n\\n",
+					" ",
+					"•",
+					" ",
+					"@slugs()[index]",
+					"@slugs[index]",
+					"-",
+					"",
+					"\"",
+					"\\n",
+					",\\n",
+					"\"\\n",
+					"\"",
+					"",
+					"\\n",
+					"",
+					" ",
+					"",
+					"question_response_0",
+					"\"\\n",
+					"\\n",
+					"person_name",
+					",\\n",
+					"question_id",
+					"</h4>",
+					"<h4>",
+					"",
+					"\\^",
+					"^",
+					"",
+					"\\n",
+					"",
+					"numodal.css",
+					"griddle.css",
+					"griddle.js",
+					"this.isTouch()",
+					"dismiss",
+					"",
+					"\"",
+					"",
+					"\\n",
+					"\\\\\\n",
+					"\\\\n",
+					"/\\n",
+					"\\n/",
+					"\"",
+					" ",
+					",\\n",
+					"\\n",
+					"",
+					"\\n",
+					"\\n\\n",
+					"\\n",
+					"annotator_",
+					"interactives",
+					"",
+					"Annotator::Application",
+					"\\n",
+					"\\n\\n",
+					"",
+					"\\n",
+					"<%= link_to('Multimedia Admin', root_path, {:class=>\"brand\"}) %>",
+					"=> 'http://dealbook.nytimes.com/2013/02/04/u-s-and-states-prepare-to-sue-s-p-over-mortgage-ratings/',",
+					",\\n",
+					"\",\\n",
+					"&lt; Back",
+					"btn btn-primary",
+					"btn btn-small",
+					"btn btn-danger",
+					"btn btn-success",
+					"alert alert-block alert-info",
+					"<a class=\"brand\" href=$1</a>",
+					"<a href=$1</a>",
+					"$2",
+					"$3",
+					"$4",
+					"$1$2$3$4",
+					"$1",
+					"\"navbar navbar-inverse navbar-fixed-top\"",
+					"alert-block",
+					"alert",
+					"span12",
+					"span6",
+					"class=\"navbar-inner\"",
+					"navbar navbar-fixed-top",
+					"navbar",
+					"\\n",
+					"",
+					"$1",
+					"%1",
+					"$1",
+					";",
+					",\\n",
+					"\"$1\"\\,",
+					"\"$1\",",
+					"\"$1\"",
+					"$1",
+					"/1",
+					"\\n",
+					"",
+					"\\t",
+					"t",
+					"\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"time",
+						"data_bags/apps/timeline_tool.json"
+					],
+					[
+						"gu",
+						"Guardfile"
+					],
+					[
+						"js",
+						"app/assets/javascripts/annotations.js.erb"
+					],
+					[
+						"css",
+						"app/assets/stylesheets/frontend/Timeline.css"
+					],
+					[
+						"timejs",
+						"app/assets/javascripts/frontend/Timeline.js"
+					],
+					[
+						"guar",
+						"Guardfile"
+					],
+					[
+						"timelin",
+						"app/models/timeline.rb"
+					],
+					[
+						"procedures.js",
+						"Javascript/projects/2013/Procedures/Procedures.js"
+					],
+					[
+						"mediaelementplayer.css",
+						"CSS/com/mediaelement/mediaelementplayer.css"
+					],
+					[
+						"procedures.css",
+						"CSS/projects/2013/Procedures/Procedures.css"
+					],
+					[
+						"rake",
+						"lib/tasks/procedures.rake"
+					],
+					[
+						"procedures_inline_comments.coffee",
+						"public/projects/procedures/coffeescripts/procedures_inline_comments.coffee"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"inlin",
+						"public/projects/procedures/coffeescripts/procedures_inline_comments.coffee"
+					],
+					[
+						"proc",
+						"lib/tasks/proceedures.rake"
+					],
+					[
+						"phototransformer",
+						"src/javascripts/phototransformer.js"
+					],
+					[
+						"em",
+						"embed_builder_test.html"
+					],
+					[
+						"nu",
+						"src/javascripts/numodal.js"
+					],
+					[
+						".sh",
+						"public/projects/proceedures/concat.sh"
+					],
+					[
+						"guard",
+						"Guardfile"
+					],
+					[
+						"coffee",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"pro",
+						"config/environments/production.rb"
+					],
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"gua",
+						"Guardfile"
+					],
+					[
+						"count",
+						"public/projects/proceedures/javascripts/jquery.wordcount.js"
+					],
+					[
+						"index.html.erb",
+						"app/views/admin/index.html.erb"
+					],
+					[
+						"tes",
+						"embed_builder_test.html"
+					],
+					[
+						"pu",
+						"src/javascripts/pourover.js"
+					],
+					[
+						"num",
+						"src/javascripts/numodal.js"
+					],
+					[
+						"45670d3764a43be0e295a19eeea0170b.js",
+						"build/nytint-base-45670d3764a43be0e295a19eeea0170b.js"
+					],
+					[
+						"base",
+						"src/nytint-base.js"
+					],
+					[
+						"back",
+						"src/javascripts/backbone-1.0.0.js"
+					],
+					[
+						"f0af59521b317aef732d98893caf7a34",
+						"build/nytint-base-f0af59521b317aef732d98893caf7a34.js"
+					],
+					[
+						"3ef51e53c7c1949d7f95b5784e85f79c.js",
+						"build/griddle-3ef51e53c7c1949d7f95b5784e85f79c.js"
+					],
+					[
+						"pou",
+						"src/javascripts/pourover.js"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"por",
+						"config/environments/production.rb"
+					],
+					[
+						"load",
+						"app/assets/javascripts/bookmarklet_loader.js"
+					],
+					[
+						"ig",
+						".gitignore"
+					],
+					[
+						"defini",
+						"app/assets/javascripts/lasso_comment_placer_definition.js"
+					],
+					[
+						"defni",
+						"app/assets/javascripts/lasso_comment_picker_definition.js"
+					],
+					[
+						"produc",
+						"config/environments/production.rb"
+					],
+					[
+						"stag",
+						"config/environments/staging.rb"
+					],
+					[
+						"timel",
+						"app/assets/javascripts/frontend/Timeline.js"
+					],
+					[
+						"publis",
+						"app/controllers/publish_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"show",
+						"app/views/timelines/show.html.erb"
+					],
+					[
+						"prod",
+						"config/environments/production.rb"
+					],
+					[
+						"submit",
+						"app/views/application/submit.html.erb"
+					],
+					[
+						"da",
+						"config/database.yml"
+					],
+					[
+						"timeline.rb",
+						"app/models/timeline.rb"
+					],
+					[
+						"ann",
+						"app/assets/javascripts/annotations.js.erb"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"rv",
+						".rvmrc"
+					],
+					[
+						"in",
+						"config/environments/internal_production.rb"
+					],
+					[
+						"interna",
+						"config/environments/internal_production.rb"
+					],
+					[
+						"timerb",
+						"app/models/timeline.rb"
+					],
+					[
+						"rvm",
+						".rvmrc"
+					],
+					[
+						"timcss",
+						"app/assets/stylesheets/frontend/Timeline.css"
+					],
+					[
+						"procon",
+						"app/controllers/projects_controller.rb"
+					],
+					[
+						"procc",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"coff",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"procee",
+						"public/projects/proceedures/minified/procedures1.js"
+					],
+					[
+						"word",
+						"public/projects/proceedures/javascripts/jquery.wordcount.js"
+					],
+					[
+						"nyt",
+						"public/projects/proceedures/nyt.html"
+					],
+					[
+						"chap",
+						"public/projects/proceedures/javascripts/chapter_tracking.js"
+					],
+					[
+						"cono",
+						"public/projects/proceedures/javascripts/colonoscopy.js"
+					],
+					[
+						"html",
+						"public/projects/proceedures/colonoscopy.html"
+					],
+					[
+						"colo",
+						"public/projects/proceedures/stylesheets/colonoscopy.css"
+					],
+					[
+						"proj",
+						"app/models/project.rb"
+					],
+					[
+						"coffe",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"app",
+						"config/application.rb"
+					],
+					[
+						"prora",
+						"lib/tasks/proceedures.rake"
+					],
+					[
+						"error.html.erb",
+						"app/views/layouts/error.html.erb"
+					],
+					[
+						"project.rb",
+						"app/models/project.rb"
+					],
+					[
+						"col",
+						"public/projects/proceedures/javascripts/colonoscopy.js"
+					],
+					[
+						"multi",
+						"vendor/cache/multi_json-1.7.3.gem"
+					],
+					[
+						"mod",
+						"mod.js"
+					],
+					[
+						"even",
+						"event.rb"
+					],
+					[
+						"item",
+						"app/models/item.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"itemcon",
+						"app/controllers/items_controller.rb"
+					],
+					[
+						"projcon",
+						"app/controllers/projects_controller.rb"
+					],
+					[
+						"buckcon",
+						"app/controllers/buckets_controller.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"con",
+						"app/controllers/buckets_controller.rb"
+					],
+					[
+						"gridd",
+						"src/griddle.js"
+					],
+					[
+						"jst.ejs",
+						"src/javascripts/griddle_default.jst.ejs"
+					],
+					[
+						"ign",
+						".gitignore"
+					],
+					[
+						"photo",
+						"src/javascripts/phototransformer.js"
+					],
+					[
+						"numo",
+						"src/javascripts/numodal.js"
+					],
+					[
+						"emb",
+						"embed_builder.html"
+					],
+					[
+						"",
+						"embed_builder.html"
+					],
+					[
+						"sl",
+						"slideshow.html"
+					],
+					[
+						"gri",
+						"griddle.html"
+					],
+					[
+						"h",
+						"griddle.html"
+					],
+					[
+						"ignore",
+						".gitignore"
+					],
+					[
+						"overview_controller.rb",
+						"app/controllers/overview_controller.rb"
+					],
+					[
+						"demo",
+						"websocket-demo.html"
+					],
+					[
+						"web",
+						"websocket-demo.html"
+					],
+					[
+						"help",
+						"app/helpers/forms_helper.rb"
+					],
+					[
+						"application.js",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"admin/projects/index.html.erb",
+						"app/views/admin/projects/index.html.erb"
+					],
+					[
+						"exam",
+						"app/views/admin/form_templates/example.html"
+					],
+					[
+						".js",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"forms_controller",
+						"app/controllers/admin/forms_controller.rb"
+					],
+					[
+						"form",
+						"app/models/form.rb"
+					],
+					[
+						"photo.",
+						"app/models/photo.rb"
+					],
+					[
+						"hlp",
+						"app/helpers/forms_helper.rb"
+					],
+					[
+						"cut",
+						"config/initializers/chute.rb"
+					],
+					[
+						"ny",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"formhe",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"su",
+						"app/models/submission.rb"
+					],
+					[
+						"edit",
+						"app/views/admin/projects/edit.html.erb"
+					],
+					[
+						"projeccon",
+						"app/controllers/admin/projects_controller.rb"
+					],
+					[
+						"ex",
+						"app/views/admin/form_templates/example.html"
+					],
+					[
+						"admincon",
+						"app/controllers/admin/projects_controller.rb"
+					],
+					[
+						"/admin/projects/edit.html.erb",
+						"app/views/admin/projects/edit.html.erb"
+					],
+					[
+						"index",
+						"app/views/admin/projects/index.html.erb"
+					],
+					[
+						"formscon",
+						"app/controllers/forms_controller.rb"
+					],
+					[
+						"adminedit",
+						"app/views/admin/projects/edit.html.erb"
+					],
+					[
+						"admed",
+						"app/views/admin/forms/edit.html.erb"
+					],
+					[
+						"adformcon",
+						"app/controllers/admin/forms_controller.rb"
+					],
+					[
+						"dhow.",
+						"app/views/admin/forms/show.html.erb"
+					],
+					[
+						"formcon",
+						"app/controllers/forms_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 291.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1474.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"nu",
+						"numodal-a8262fc677f7bf0380b6dabbefffeccb"
+					],
+					[
+						"prc",
+						"procedures"
+					],
+					[
+						"answer",
+						"answer_"
+					],
+					[
+						"track",
+						"track_event"
+					],
+					[
+						"cost",
+						"cost_guess"
+					],
+					[
+						"sub",
+						"submissions"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"mo",
+						"modalon"
+					],
+					[
+						"modal",
+						"modalon"
+					],
+					[
+						"repla",
+						"replaceState"
+					],
+					[
+						"sli",
+						"slideshow_title"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"sl",
+						"slideshow_title"
+					],
+					[
+						"slideshow",
+						"slideshow_play"
+					],
+					[
+						"ba",
+						"background-repeat"
+					],
+					[
+						"cha",
+						"chapterBreaks"
+					],
+					[
+						"sho",
+						"short_question"
+					],
+					[
+						"err",
+						"error_message"
+					],
+					[
+						"wor",
+						"word_count_valid"
+					],
+					[
+						"word",
+						"word_count_error_string"
+					],
+					[
+						"loc",
+						"location_error_string"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"rem",
+						"removeClass"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"preload",
+						"preloadFadePage"
+					],
+					[
+						"prelo",
+						"preloadFadePage"
+					],
+					[
+						"prel",
+						"preloadFadePage"
+					],
+					[
+						"numodal_b",
+						"numodal_backward"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"tim",
+						"timeline"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"res",
+						"responses"
+					],
+					[
+						"a",
+						"arial"
+					],
+					[
+						"ins",
+						"instructions"
+					],
+					[
+						"resp",
+						"response_copy"
+					],
+					[
+						"slid",
+						"slider_integer"
+					],
+					[
+						"ques",
+						"question_0_response_text"
+					],
+					[
+						"sa",
+						"sample_question_0_json"
+					],
+					[
+						"com",
+						"compacted"
+					],
+					[
+						"hid",
+						"gmom_hidden_html"
+					],
+					[
+						"qu",
+						"question_0_html"
+					],
+					[
+						"col",
+						"colonscopy"
+					],
+					[
+						"gr",
+						"groups"
+					],
+					[
+						"sc",
+						"schema"
+					],
+					[
+						"form",
+						"form_submit"
+					],
+					[
+						"ano",
+						"another_proceedure"
+					],
+					[
+						"an",
+						"answer"
+					],
+					[
+						"demo",
+						"demographics_stage"
+					],
+					[
+						"dem",
+						"demographics_stage"
+					],
+					[
+						"coll",
+						"collapse_comment"
+					],
+					[
+						"slide",
+						"slideUp"
+					],
+					[
+						"is",
+						"is_valid"
+					],
+					[
+						"no",
+						"submit_no_thanks"
+					],
+					[
+						"fin",
+						"finalize_comment"
+					],
+					[
+						"que",
+						"questions"
+					],
+					[
+						"de",
+						"demographics_stage"
+					],
+					[
+						"ex",
+						"except_question"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"lo",
+						"location"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"width",
+						"width"
+					],
+					[
+						"th",
+						"thank_you"
+					],
+					[
+						"su",
+						"submit3"
+					],
+					[
+						"q",
+						"question2_submit1"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"wo",
+						"word_count2"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"S",
+						"success"
+					],
+					[
+						"e",
+						"element"
+					],
+					[
+						"ini",
+						"init_slider"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"co",
+						"count"
+					],
+					[
+						"dele",
+						"deselectItems"
+					],
+					[
+						"comm",
+						"comment_div"
+					],
+					[
+						"id",
+						"id_selector"
+					],
+					[
+						"cu",
+						"current_bucket"
+					],
+					[
+						"comment",
+						"comment_id"
+					],
+					[
+						"buck",
+						"bucket"
+					],
+					[
+						"pro",
+						"project_id"
+					],
+					[
+						"pr",
+						"project"
+					],
+					[
+						"las",
+						"lasso_bucket_select"
+					],
+					[
+						"opti",
+						"select_options"
+					],
+					[
+						"bucke",
+						"bucket_id"
+					],
+					[
+						"re",
+						"refresh_bucket_select"
+					],
+					[
+						"bucket",
+						"bucket_ids"
+					],
+					[
+						"lass",
+						"lasso_project_select"
+					],
+					[
+						"bin",
+						"bind_to_project_select"
+					],
+					[
+						"sle",
+						"select_html"
+					],
+					[
+						"sel",
+						"select_options"
+					],
+					[
+						"proj",
+						"project"
+					],
+					[
+						"tem",
+						"template_name"
+					],
+					[
+						"show",
+						"show_image"
+					],
+					[
+						"targ",
+						"target_dom"
+					],
+					[
+						"ta",
+						"target_dom"
+					],
+					[
+						"tar",
+						"target_dom"
+					],
+					[
+						"pos",
+						"poster_caption"
+					],
+					[
+						"to_",
+						"to_json"
+					],
+					[
+						"par",
+						"partial_client_message"
+					],
+					[
+						"cli",
+						"client_id"
+					],
+					[
+						"options",
+						"options_for_select"
+					],
+					[
+						"esca",
+						"escape_html"
+					],
+					[
+						"phot",
+						"photo_crop"
+					],
+					[
+						"photo",
+						"photo_id"
+					],
+					[
+						"se",
+						"set_serial"
+					],
+					[
+						"cre",
+						"create_chute_album"
+					],
+					[
+						"form_",
+						"form_elements"
+					],
+					[
+						"text",
+						"text_area"
+					],
+					[
+						"up",
+						"upload_services"
+					],
+					[
+						"qa",
+						"qa_updated"
+					],
+					[
+						"slidesh",
+						"slideshow_container"
+					],
+					[
+						"background",
+						"background-image"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"set",
+						"setupShareTools"
+					],
+					[
+						"ret",
+						"return_object"
+					],
+					[
+						"anno",
+						"annotation"
+					],
+					[
+						"pic",
+						"pictures"
+					],
+					[
+						"script",
+						"script_tags"
+					],
+					[
+						"man",
+						"mainifest"
+					],
+					[
+						"data_source_",
+						"data_source_type"
+					],
+					[
+						"pre",
+						"preimg"
+					],
+					[
+						"cate",
+						"category"
+					],
+					[
+						"cat",
+						"category"
+					],
+					[
+						"has",
+						"has_query_param"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/204451/Documents/timeline/app/views/publish/vertical/preview.html.erb",
+					"settings":
+					{
+						"buffer_size": 12703,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/204451/Documents/timeline/app/assets/javascripts/frontend/Timeline.js",
+					"settings":
+					{
+						"buffer_size": 27162,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/204451/Documents/timeline/app/models/timeline.rb",
+					"settings":
+					{
+						"buffer_size": 3962,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 107.0,
+				"selected_items":
+				[
+					[
+						"push",
+						"Git: Push Current Branch"
+					],
+					[
+						"q",
+						"Git: Quick Commit"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"show",
+						"Git: Show Current File"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"latest",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"pretty",
+						"HTMLPrettify: Prettify"
+					],
+					[
+						"log",
+						"Git: Log Current File"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"qui",
+						"Git: Quick Commit"
+					],
+					[
+						"sho",
+						"Git: Show Current File"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"wrap",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"case",
+						"Convert Case: Upper Case"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"CAS",
+						"Convert Case: Lower Case"
+					],
+					[
+						"CASE",
+						"Convert Case: Title Case"
+					],
+					[
+						"wrao",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"pack",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"SHOW",
+						"Git: Show Current File"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"rails",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"parti",
+						"Rails Partial: Create Partial from Text"
+					],
+					[
+						"lates",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"lint",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"tid",
+						"Tidy HTML"
+					],
+					[
+						"ti",
+						"Tidy HTML"
+					],
+					[
+						"lat",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"part",
+						"Rails Partial: Create Partial from Text"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"late",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"jac",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"quic",
+						"Git: Quick Commit"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"lin",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"oack",
+						"Package Control: List Packages"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"pac ins",
+						"Package Control: Install Package"
+					],
+					[
+						"log c",
+						"Git: Log Current File"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"la",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"re in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pull",
+						"Git: Pull Current Branch"
+					],
+					[
+						"git  re",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"git q",
+						"Git: Quick Commit"
+					],
+					[
+						"git rese",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git show",
+						"Git: Show Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"show err",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pack lis",
+						"Package Control: List Packages"
+					],
+					[
+						"pacl",
+						"Package Control: Enable Package"
+					],
+					[
+						"packag",
+						"Package Control: Disable Package"
+					],
+					[
+						"sim",
+						"Simple Rails Navigator: List views"
+					],
+					[
+						"simple",
+						"Simple Rails Navigator: List controllers"
+					],
+					[
+						"git ",
+						"Git: Quick Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"gist:",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"git di",
+						"Git: Diff All"
+					],
+					[
+						"git b",
+						"Git: Blame"
+					],
+					[
+						"git  stat",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/204451/Documents/timeline/README.md",
+				"/Users/204451/Documents/timeline/config/environments/development.rb",
+				"/Users/204451/Documents/timeline/app/controllers/publish_controller.rb",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/frontend/publications.js",
+				"/Users/204451/Documents/timeline/app/models/timeline.rb",
+				"/Users/204451/Documents/timeline/config/environments/production.rb",
+				"/Users/204451/Documents/timeline/config/database.yml",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/application_manifest.js",
+				"/Users/204451/Documents/timeline/config/application.rb",
+				"/Users/204451/Documents/timeline/config/environments/staging.rb",
+				"/etc/hosts",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/frontend/Timeline.js",
+				"/Users/204451/Documents/timeline/app/models/annotation.rb",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/frontend/Timeline.css",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/frontend/NYTMMTimeline.css",
+				"/Users/204451/Documents/timeline/app/models/medium.rb",
+				"/Users/204451/Documents/timeline/app/views/annotations/_annotation_form.html.erb",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/annotations.js.erb",
+				"/Users/204451/Documents/timeline/Guardfile",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/timeline.css",
+				"/Users/204451/Documents/multimedia_svn/HTML/projects/2012/ConventionHangouts/README.txt",
+				"/Users/204451/Documents/grandmominator/lib/tasks/procedures.rake",
+				"/Users/204451/Documents/grandmominator/Gemfile",
+				"/Users/204451/Documents/grandmominator/Guardfile",
+				"/Users/204451/Documents/grandmominator/db/migrate/20130624201607_add_moderated_at_to_submissions.rb",
+				"/Users/204451/Documents/grandmominator/db/migrate/20130617205428_add_submission_groups.rb",
+				"/Users/204451/Documents/grandmominator/lib/tasks/publish.rake",
+				"/Users/204451/Documents/grandmominator/public/projects/procedures/colonoscopy.html",
+				"/Users/204451/Documents/grandmominator/public/projects/procedures/concat.sh",
+				"/Users/204451/Documents/grandmominator/lib/tasks/proceedures.rake",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/numodal_default.jst.ejs",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/numodal.js",
+				"/Users/204451/Documents/griddle_numodal/embed_builder_test.html",
+				"/Users/204451/Documents/griddle_numodal/src/stylesheets/numodal.css",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/phototransformer.js",
+				"/Users/204451/Documents/griddle_numodal/Gemfile",
+				"/Users/204451/Documents/griddle_numodal/Rakefile",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/colonoscopy.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/coffeescripts/colonoscopy.coffee",
+				"/Users/204451/Documents/lasso/config/mongoid.yml",
+				"/Users/204451/Documents/lasso/app/views/projects/bookmarklets.html.erb",
+				"/Users/204451/Documents/lasso/config/environments/production.rb",
+				"/Users/204451/Documents/lasso/app/views/projects/_comment_placer_bookmarklet.js.erb",
+				"/Users/204451/Documents/lasso/config/application.rb",
+				"/Users/204451/Documents/lasso/public/assets/comment_placer_viewer.css",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_picker.js",
+				"/Users/204451/Documents/lasso/app/assets/coffeescripts/comment_picker.coffee",
+				"/Users/204451/Documents/lasso/Guardfile",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_picker_app.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_placer_admin.js",
+				"/Users/204451/Documents/lasso/app/assets/coffeescripts/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/lasso/app/assets/coffeescript/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/grandmominator/app/views/admin/index.html.erb",
+				"/Users/204451/Documents/grid_gallery_reboot/src/stylesheets/numodal.css",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/numodal.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/images_loaded.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/nytint-base.js",
+				"/Users/204451/Documents/grid_gallery_reboot/embed_builder_test.html",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/pourover.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/backbone-1.0.0.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/numodal.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/nytint-base-45670d3764a43be0e295a19eeea0170b.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/nytint-base-f0af59521b317aef732d98893caf7a34.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/griddle-3ef51e53c7c1949d7f95b5784e85f79c.js",
+				"/Users/204451/Documents/lasso/vendor/assets/javascripts/.keep",
+				"/Users/204451/Documents/lasso/.gitignore",
+				"/Users/204451/Documents/lasso/config/environments/development.rb",
+				"/Users/204451/Documents/lasso/app/assets/images/lasso_comment_picker.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/lasso_comment_placer.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/application.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/stylesheets/colonoscopy.css",
+				"/Users/204451/Documents/timeline/config/routes.rb",
+				"/Users/204451/Documents/timeline/app/views/timelines/show.html.erb",
+				"/Users/204451/Documents/timeline/.rvmrc",
+				"/Users/204451/Documents/timeline/Gemfile",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/bootstrap.js",
+				"/Users/204451/Documents/blade-chef/data_bags/apps/flashmob.json",
+				"/Users/204451/Documents/flashmob/app/controllers/admin_controller.rb",
+				"/Users/204451/Downloads/manifest.yml",
+				"/Users/204451/Documents/grandmominator copy/public/projects/proceedures/javascripts/colonoscopy.js",
+				"/Users/204451/Documents/timeline/config/environments/internal_production.rb",
+				"/Users/204451/Documents/timeline/app/views/publish/vertical/preview.html.erb",
+				"/Users/204451/Documents/grandmominator/build.sh",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/chapter_tracking.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/concat.sh",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/nyt.html",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/colonoscopy.html",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/jquery.wordcount.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/minified/procedures1.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/comments.js",
+				"/Users/204451/Documents/grandmominator/config/application.rb",
+				"/Users/204451/Documents/grandmominator/app/views/layouts/error.html.erb",
+				"/Users/204451/Documents/grandmominator/app/models/submission.rb",
+				"/Users/204451/Documents/grandmominator/app/models/project.rb",
+				"/Users/204451/Documents/grandmominator/app/views/submission/_collect.html.erb",
+				"/Users/204451/Documents/grandmominator/.rvmrc",
+				"/Users/204451/Documents/grandmominator/vendor/cache/multi_json-1.7.3.gem",
+				"/Users/204451/Documents/lasso/Gemfile",
+				"/Users/204451/Documents/lasso/app/models/item.rb",
+				"/Users/204451/Documents/lasso/public/stylesheets/bookmarklet_payload.css",
+				"/Users/204451/Documents/lasso/app/controllers/buckets_controller.rb",
+				"/Users/204451/Documents/lasso/app/controllers/items_controller.rb",
+				"/Users/204451/Documents/lasso/config/routes.rb",
+				"/Users/204451/Documents/lasso/public/coffeescript/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/lasso/app/controllers/projects_controller.rb",
+				"/Users/204451/Documents/lasso/public/stylesheets/namespaced_bootstrap.css",
+				"/Users/204451/Documents/lasso/app/models/project.rb",
+				"/Users/204451/Documents/lasso/public/javascripts/bookmarklet_loader.js",
+				"/Users/204451/Documents/lasso/public/javascripts/bookmarklet_payload.js",
+				"/Users/204451/Documents/lasso/app/models/bucket.rb",
+				"/Users/204451/Documents/lasso/app/models/comment_api.rb",
+				"/Users/204451/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/204451/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/bookmarklet_loader.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/bookmarklet_payload.js",
+				"/Users/204451/Documents/lasso/app/assets",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/annotations.css",
+				"/Users/204451/Documents/timeline/README.rdoc",
+				"/Users/204451/Documents/blade-chef/data_bags/apps/infrastructure.json",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/griddle_default.jst.ejs",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/require.js",
+				"/Users/204451/Documents/grid_gallery_reboot/griddle.html",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/griddle.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/phototransformer.js",
+				"/Users/204451/Documents/grid_gallery_reboot/embed_builder.html",
+				"/Users/204451/Documents/grid_gallery_reboot/slideshow.html",
+				"/Users/204451/Documents/grid_gallery_reboot/.gitignore",
+				"/Users/204451/Documents/grid_gallery_reboot/grid_gallery_reboot.sublime-project"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"app/",
+					"",
+					"*.js",
+					"",
+					"question_response_0",
+					"",
+					"*erb",
+					"*.js",
+					"*.js.erb",
+					".js.erb",
+					"",
+					"app/views",
+					"",
+					"*",
+					"",
+					"app/view*",
+					"app/view",
+					"app/*",
+					"",
+					"app/*",
+					"",
+					"*erb",
+					"",
+					"*.rb",
+					".rb",
+					"",
+					"*frontend*.js",
+					"*.js",
+					".js",
+					"",
+					"*.css",
+					"",
+					"*timelinea*",
+					"",
+					"*.css",
+					"",
+					"*.js",
+					"",
+					"*.css",
+					".css",
+					"",
+					"*.css",
+					"",
+					"/Users/204451/Documents/mmadmin/app/",
+					"/Users/204451/Documents/mmadmin/app/views/timelineator",
+					"",
+					"*.css",
+					"",
+					"*.js",
+					"",
+					"app/*.erb",
+					"app/",
+					"",
+					"*.css",
+					"*",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"*",
+					"app/*",
+					"app*",
+					"/app*",
+					"",
+					"*js*",
+					"*.js",
+					"",
+					"*/app*",
+					"/app*",
+					"",
+					"*/javascripts/*",
+					"*",
+					"app/*",
+					"",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"*.css",
+					"*",
+					"*.rb",
+					"*",
+					"*.rb",
+					"*",
+					"*.erb",
+					"*",
+					"",
+					"interactives",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"consol",
+					"comp",
+					"\\.js",
+					"publications",
+					"%>\n",
+					"publications",
+					"debu",
+					"postTimelineCallback",
+					"console.lo",
+					"config.aws_bucket",
+					"Non Feat",
+					"document_icon",
+					"graphic",
+					"image",
+					"grap",
+					"body",
+					"class",
+					"refer",
+					"partial_name",
+					"arti",
+					"non-fea",
+					"media",
+					"data_vault",
+					"data_valut",
+					"1069",
+					"procedures_span_graphic",
+					"51.203.44.com",
+					"localhost.nytimes",
+					"•",
+					"\\n+",
+					"\\n\\n",
+					"texta",
+					"procedure discussed\n",
+					"person_name",
+					"person_name\n",
+					"person_name",
+					"location",
+					"loca",
+					"location",
+					"where",
+					"form_submit",
+					"@submit_fields",
+					"submit_fields",
+					"answer",
+					"answer\n",
+					"greenwa",
+					"answer",
+					"@answer",
+					"answer",
+					"vform",
+					"form_submit",
+					"vform_submit",
+					"scott",
+					"form_submit",
+					"active_question",
+					"gmom_sid",
+					"scott",
+					"trac",
+					"\"",
+					"\"\n",
+					"\"",
+					"live",
+					"proceed",
+					"proceedures",
+					"procee",
+					"send",
+					"log",
+					"okok",
+					".data",
+					"push",
+					"bind",
+					"pop",
+					"location",
+					"push",
+					"upda",
+					"log",
+					"pushS",
+					"replaceS",
+					"pushS",
+					"updateUrl",
+					"replaceS",
+					"pushS",
+					"pushState",
+					"replaceState",
+					"view",
+					"bindPagers",
+					"' ",
+					" '",
+					"unbin",
+					"bind",
+					"clear",
+					"image",
+					"url",
+					"theme",
+					"bindEvents",
+					"numodal_opts",
+					"numodal_defaults",
+					"numodal_extension",
+					"makeModal",
+					"title",
+					"url",
+					"numodal_opts",
+					"numodal_defaults",
+					"\n\nnumodal_defaults",
+					"numodal_defaults\nnumodal_defaults",
+					"numodal_defaults\n",
+					"numodal_defaults",
+					"_",
+					"templa",
+					"modal",
+					"target-",
+					"image",
+					"numodal_image",
+					"numodal_im",
+					"all",
+					"dismis",
+					"dis",
+					"dism",
+					"dismi",
+					"trans",
+					"dismis",
+					"dis",
+					"share",
+					"numodal_share_icon",
+					"shareT",
+					"shar",
+					"share",
+					"commen"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\n\\n",
+					" ",
+					"•",
+					" ",
+					"@slugs()[index]",
+					"@slugs[index]",
+					"-",
+					"",
+					"\"",
+					"\\n",
+					",\\n",
+					"\"\\n",
+					"\"",
+					"",
+					"\\n",
+					"",
+					" ",
+					"",
+					"question_response_0",
+					"\"\\n",
+					"\\n",
+					"person_name",
+					",\\n",
+					"question_id",
+					"</h4>",
+					"<h4>",
+					"",
+					"\\^",
+					"^",
+					"",
+					"\\n",
+					"",
+					"numodal.css",
+					"griddle.css",
+					"griddle.js",
+					"this.isTouch()",
+					"dismiss",
+					"",
+					"\"",
+					"",
+					"\\n",
+					"\\\\\\n",
+					"\\\\n",
+					"/\\n",
+					"\\n/",
+					"\"",
+					" ",
+					",\\n",
+					"\\n",
+					"",
+					"\\n",
+					"\\n\\n",
+					"\\n",
+					"annotator_",
+					"interactives",
+					"",
+					"Annotator::Application",
+					"\\n",
+					"\\n\\n",
+					"",
+					"\\n",
+					"<%= link_to('Multimedia Admin', root_path, {:class=>\"brand\"}) %>",
+					"=> 'http://dealbook.nytimes.com/2013/02/04/u-s-and-states-prepare-to-sue-s-p-over-mortgage-ratings/',",
+					",\\n",
+					"\",\\n",
+					"&lt; Back",
+					"btn btn-primary",
+					"btn btn-small",
+					"btn btn-danger",
+					"btn btn-success",
+					"alert alert-block alert-info",
+					"<a class=\"brand\" href=$1</a>",
+					"<a href=$1</a>",
+					"$2",
+					"$3",
+					"$4",
+					"$1$2$3$4",
+					"$1",
+					"\"navbar navbar-inverse navbar-fixed-top\"",
+					"alert-block",
+					"alert",
+					"span12",
+					"span6",
+					"class=\"navbar-inner\"",
+					"navbar navbar-fixed-top",
+					"navbar",
+					"\\n",
+					"",
+					"$1",
+					"%1",
+					"$1",
+					";",
+					",\\n",
+					"\"$1\"\\,",
+					"\"$1\",",
+					"\"$1\"",
+					"$1",
+					"/1",
+					"\\n",
+					"",
+					"\\t",
+					"t",
+					"\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/204451/Documents/timeline"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/204451/Documents/timeline/app/views/publish/vertical/preview.html.erb",
+							"settings":
+							{
+								"buffer_size": 12703,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6667,
+										6667
+									],
+									[
+										6741,
+										6741
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"ruby": "/usr/local/rvm/rubies/ruby-1.9.3-p327/bin/ruby"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2400.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/204451/Documents/timeline/app/assets/javascripts/frontend/Timeline.js",
+							"settings":
+							{
+								"buffer_size": 27162,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25393,
+										25393
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"ruby": "/usr/local/rvm/rubies/ruby-1.9.3-p327/bin/ruby"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 11702.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/204451/Documents/timeline/app/models/timeline.rb",
+							"settings":
+							{
+								"buffer_size": 3962,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2809,
+										2809
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"ruby": "/usr/local/rvm/rubies/ruby-1.9.3-p327/bin/ruby"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1057.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"position": "107 95 1280 774 0 0 1920 1178 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"timerb",
+						"app/models/timeline.rb"
+					],
+					[
+						"prod",
+						"config/environments/production.rb"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"verticle",
+						"app/views/publish/vertical/preview.html.erb"
+					],
+					[
+						"publcon",
+						"app/controllers/publish_controller.rb"
+					],
+					[
+						"pub",
+						"app/assets/javascripts/frontend/publications.js"
+					],
+					[
+						"man",
+						"app/assets/javascripts/application_manifest.js"
+					],
+					[
+						"timejs",
+						"app/assets/javascripts/frontend/Timeline.js"
+					],
+					[
+						"time.rb",
+						"app/models/timeline.rb"
+					],
+					[
+						"pro",
+						"config/environments/production.rb"
+					],
+					[
+						"day",
+						"config/database.yml"
+					],
+					[
+						"gu",
+						"Guardfile"
+					],
+					[
+						"js",
+						"app/assets/javascripts/annotations.js.erb"
+					],
+					[
+						"css",
+						"app/assets/stylesheets/frontend/Timeline.css"
+					],
+					[
+						"guar",
+						"Guardfile"
+					],
+					[
+						"timelin",
+						"app/models/timeline.rb"
+					],
+					[
+						"procedures.js",
+						"Javascript/projects/2013/Procedures/Procedures.js"
+					],
+					[
+						"mediaelementplayer.css",
+						"CSS/com/mediaelement/mediaelementplayer.css"
+					],
+					[
+						"procedures.css",
+						"CSS/projects/2013/Procedures/Procedures.css"
+					],
+					[
+						"rake",
+						"lib/tasks/procedures.rake"
+					],
+					[
+						"procedures_inline_comments.coffee",
+						"public/projects/procedures/coffeescripts/procedures_inline_comments.coffee"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"inlin",
+						"public/projects/procedures/coffeescripts/procedures_inline_comments.coffee"
+					],
+					[
+						"proc",
+						"lib/tasks/proceedures.rake"
+					],
+					[
+						"time",
+						"app/models/timeline.rb"
+					],
+					[
+						"phototransformer",
+						"src/javascripts/phototransformer.js"
+					],
+					[
+						"em",
+						"embed_builder_test.html"
+					],
+					[
+						"nu",
+						"src/javascripts/numodal.js"
+					],
+					[
+						".sh",
+						"public/projects/proceedures/concat.sh"
+					],
+					[
+						"guard",
+						"Guardfile"
+					],
+					[
+						"coffee",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"gua",
+						"Guardfile"
+					],
+					[
+						"count",
+						"public/projects/proceedures/javascripts/jquery.wordcount.js"
+					],
+					[
+						"index.html.erb",
+						"app/views/admin/index.html.erb"
+					],
+					[
+						"tes",
+						"embed_builder_test.html"
+					],
+					[
+						"pu",
+						"src/javascripts/pourover.js"
+					],
+					[
+						"num",
+						"src/javascripts/numodal.js"
+					],
+					[
+						"45670d3764a43be0e295a19eeea0170b.js",
+						"build/nytint-base-45670d3764a43be0e295a19eeea0170b.js"
+					],
+					[
+						"base",
+						"src/nytint-base.js"
+					],
+					[
+						"back",
+						"src/javascripts/backbone-1.0.0.js"
+					],
+					[
+						"f0af59521b317aef732d98893caf7a34",
+						"build/nytint-base-f0af59521b317aef732d98893caf7a34.js"
+					],
+					[
+						"3ef51e53c7c1949d7f95b5784e85f79c.js",
+						"build/griddle-3ef51e53c7c1949d7f95b5784e85f79c.js"
+					],
+					[
+						"pou",
+						"src/javascripts/pourover.js"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"por",
+						"config/environments/production.rb"
+					],
+					[
+						"load",
+						"app/assets/javascripts/bookmarklet_loader.js"
+					],
+					[
+						"ig",
+						".gitignore"
+					],
+					[
+						"defini",
+						"app/assets/javascripts/lasso_comment_placer_definition.js"
+					],
+					[
+						"defni",
+						"app/assets/javascripts/lasso_comment_picker_definition.js"
+					],
+					[
+						"produc",
+						"config/environments/production.rb"
+					],
+					[
+						"stag",
+						"config/environments/staging.rb"
+					],
+					[
+						"timel",
+						"app/assets/javascripts/frontend/Timeline.js"
+					],
+					[
+						"publis",
+						"app/controllers/publish_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"show",
+						"app/views/timelines/show.html.erb"
+					],
+					[
+						"submit",
+						"app/views/application/submit.html.erb"
+					],
+					[
+						"da",
+						"config/database.yml"
+					],
+					[
+						"timeline.rb",
+						"app/models/timeline.rb"
+					],
+					[
+						"ann",
+						"app/assets/javascripts/annotations.js.erb"
+					],
+					[
+						"rv",
+						".rvmrc"
+					],
+					[
+						"in",
+						"config/environments/internal_production.rb"
+					],
+					[
+						"interna",
+						"config/environments/internal_production.rb"
+					],
+					[
+						"rvm",
+						".rvmrc"
+					],
+					[
+						"timcss",
+						"app/assets/stylesheets/frontend/Timeline.css"
+					],
+					[
+						"procon",
+						"app/controllers/projects_controller.rb"
+					],
+					[
+						"procc",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"coff",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"procee",
+						"public/projects/proceedures/minified/procedures1.js"
+					],
+					[
+						"word",
+						"public/projects/proceedures/javascripts/jquery.wordcount.js"
+					],
+					[
+						"nyt",
+						"public/projects/proceedures/nyt.html"
+					],
+					[
+						"chap",
+						"public/projects/proceedures/javascripts/chapter_tracking.js"
+					],
+					[
+						"cono",
+						"public/projects/proceedures/javascripts/colonoscopy.js"
+					],
+					[
+						"html",
+						"public/projects/proceedures/colonoscopy.html"
+					],
+					[
+						"colo",
+						"public/projects/proceedures/stylesheets/colonoscopy.css"
+					],
+					[
+						"proj",
+						"app/models/project.rb"
+					],
+					[
+						"coffe",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"app",
+						"config/application.rb"
+					],
+					[
+						"prora",
+						"lib/tasks/proceedures.rake"
+					],
+					[
+						"error.html.erb",
+						"app/views/layouts/error.html.erb"
+					],
+					[
+						"project.rb",
+						"app/models/project.rb"
+					],
+					[
+						"col",
+						"public/projects/proceedures/javascripts/colonoscopy.js"
+					],
+					[
+						"multi",
+						"vendor/cache/multi_json-1.7.3.gem"
+					],
+					[
+						"mod",
+						"mod.js"
+					],
+					[
+						"even",
+						"event.rb"
+					],
+					[
+						"item",
+						"app/models/item.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"itemcon",
+						"app/controllers/items_controller.rb"
+					],
+					[
+						"projcon",
+						"app/controllers/projects_controller.rb"
+					],
+					[
+						"buckcon",
+						"app/controllers/buckets_controller.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"con",
+						"app/controllers/buckets_controller.rb"
+					],
+					[
+						"gridd",
+						"src/griddle.js"
+					],
+					[
+						"jst.ejs",
+						"src/javascripts/griddle_default.jst.ejs"
+					],
+					[
+						"ign",
+						".gitignore"
+					],
+					[
+						"photo",
+						"src/javascripts/phototransformer.js"
+					],
+					[
+						"numo",
+						"src/javascripts/numodal.js"
+					],
+					[
+						"emb",
+						"embed_builder.html"
+					],
+					[
+						"",
+						"embed_builder.html"
+					],
+					[
+						"sl",
+						"slideshow.html"
+					],
+					[
+						"gri",
+						"griddle.html"
+					],
+					[
+						"h",
+						"griddle.html"
+					],
+					[
+						"ignore",
+						".gitignore"
+					],
+					[
+						"overview_controller.rb",
+						"app/controllers/overview_controller.rb"
+					],
+					[
+						"demo",
+						"websocket-demo.html"
+					],
+					[
+						"web",
+						"websocket-demo.html"
+					],
+					[
+						"help",
+						"app/helpers/forms_helper.rb"
+					],
+					[
+						"application.js",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"admin/projects/index.html.erb",
+						"app/views/admin/projects/index.html.erb"
+					],
+					[
+						"exam",
+						"app/views/admin/form_templates/example.html"
+					],
+					[
+						".js",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"forms_controller",
+						"app/controllers/admin/forms_controller.rb"
+					],
+					[
+						"form",
+						"app/models/form.rb"
+					],
+					[
+						"photo.",
+						"app/models/photo.rb"
+					],
+					[
+						"hlp",
+						"app/helpers/forms_helper.rb"
+					],
+					[
+						"cut",
+						"config/initializers/chute.rb"
+					],
+					[
+						"ny",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"formhe",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"su",
+						"app/models/submission.rb"
+					],
+					[
+						"edit",
+						"app/views/admin/projects/edit.html.erb"
+					],
+					[
+						"projeccon",
+						"app/controllers/admin/projects_controller.rb"
+					],
+					[
+						"ex",
+						"app/views/admin/form_templates/example.html"
+					],
+					[
+						"admincon",
+						"app/controllers/admin/projects_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 291.0,
+			"status_bar_visible": true,
+			"window_id": 333,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lo",
+						"log"
+					],
+					[
+						"is",
+						"isTouch"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"en",
+						"enableSharetools"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"ini",
+						"initSharetools"
+					],
+					[
+						"new",
+						"new_url"
+					],
+					[
+						"has",
+						"hashtag"
+					],
+					[
+						"prc",
+						"procedures"
+					],
+					[
+						"answer",
+						"answer_"
+					],
+					[
+						"track",
+						"track_event"
+					],
+					[
+						"cost",
+						"cost_guess"
+					],
+					[
+						"sub",
+						"submissions"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"mo",
+						"modalon"
+					],
+					[
+						"modal",
+						"modalon"
+					],
+					[
+						"repla",
+						"replaceState"
+					],
+					[
+						"sli",
+						"slideshow_title"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"sl",
+						"slideshow_title"
+					],
+					[
+						"slideshow",
+						"slideshow_play"
+					],
+					[
+						"nu",
+						"numodal_wrapper"
+					],
+					[
+						"ba",
+						"background-repeat"
+					],
+					[
+						"cha",
+						"chapterBreaks"
+					],
+					[
+						"sho",
+						"short_question"
+					],
+					[
+						"err",
+						"error_message"
+					],
+					[
+						"wor",
+						"word_count_valid"
+					],
+					[
+						"word",
+						"word_count_error_string"
+					],
+					[
+						"loc",
+						"location_error_string"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"rem",
+						"removeClass"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"preload",
+						"preloadFadePage"
+					],
+					[
+						"prelo",
+						"preloadFadePage"
+					],
+					[
+						"prel",
+						"preloadFadePage"
+					],
+					[
+						"numodal_b",
+						"numodal_backward"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"tim",
+						"timeline"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"res",
+						"responses"
+					],
+					[
+						"a",
+						"arial"
+					],
+					[
+						"ins",
+						"instructions"
+					],
+					[
+						"resp",
+						"response_copy"
+					],
+					[
+						"slid",
+						"slider_integer"
+					],
+					[
+						"ques",
+						"question_0_response_text"
+					],
+					[
+						"sa",
+						"sample_question_0_json"
+					],
+					[
+						"com",
+						"compacted"
+					],
+					[
+						"hid",
+						"gmom_hidden_html"
+					],
+					[
+						"qu",
+						"question_0_html"
+					],
+					[
+						"col",
+						"colonscopy"
+					],
+					[
+						"gr",
+						"groups"
+					],
+					[
+						"sc",
+						"schema"
+					],
+					[
+						"form",
+						"form_submit"
+					],
+					[
+						"ano",
+						"another_proceedure"
+					],
+					[
+						"an",
+						"answer"
+					],
+					[
+						"demo",
+						"demographics_stage"
+					],
+					[
+						"dem",
+						"demographics_stage"
+					],
+					[
+						"coll",
+						"collapse_comment"
+					],
+					[
+						"slide",
+						"slideUp"
+					],
+					[
+						"no",
+						"submit_no_thanks"
+					],
+					[
+						"fin",
+						"finalize_comment"
+					],
+					[
+						"que",
+						"questions"
+					],
+					[
+						"de",
+						"demographics_stage"
+					],
+					[
+						"ex",
+						"except_question"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"width",
+						"width"
+					],
+					[
+						"th",
+						"thank_you"
+					],
+					[
+						"su",
+						"submit3"
+					],
+					[
+						"q",
+						"question2_submit1"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"wo",
+						"word_count2"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"S",
+						"success"
+					],
+					[
+						"e",
+						"element"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"dele",
+						"deselectItems"
+					],
+					[
+						"comm",
+						"comment_div"
+					],
+					[
+						"id",
+						"id_selector"
+					],
+					[
+						"cu",
+						"current_bucket"
+					],
+					[
+						"comment",
+						"comment_id"
+					],
+					[
+						"buck",
+						"bucket"
+					],
+					[
+						"pro",
+						"project_id"
+					],
+					[
+						"pr",
+						"project"
+					],
+					[
+						"las",
+						"lasso_bucket_select"
+					],
+					[
+						"opti",
+						"select_options"
+					],
+					[
+						"bucke",
+						"bucket_id"
+					],
+					[
+						"re",
+						"refresh_bucket_select"
+					],
+					[
+						"bucket",
+						"bucket_ids"
+					],
+					[
+						"lass",
+						"lasso_project_select"
+					],
+					[
+						"bin",
+						"bind_to_project_select"
+					],
+					[
+						"sle",
+						"select_html"
+					],
+					[
+						"sel",
+						"select_options"
+					],
+					[
+						"proj",
+						"project"
+					],
+					[
+						"tem",
+						"template_name"
+					],
+					[
+						"show",
+						"show_image"
+					],
+					[
+						"targ",
+						"target_dom"
+					],
+					[
+						"ta",
+						"target_dom"
+					],
+					[
+						"tar",
+						"target_dom"
+					],
+					[
+						"pos",
+						"poster_caption"
+					],
+					[
+						"to_",
+						"to_json"
+					],
+					[
+						"par",
+						"partial_client_message"
+					],
+					[
+						"cli",
+						"client_id"
+					],
+					[
+						"options",
+						"options_for_select"
+					],
+					[
+						"esca",
+						"escape_html"
+					],
+					[
+						"phot",
+						"photo_crop"
+					],
+					[
+						"photo",
+						"photo_id"
+					],
+					[
+						"se",
+						"set_serial"
+					],
+					[
+						"cre",
+						"create_chute_album"
+					],
+					[
+						"form_",
+						"form_elements"
+					],
+					[
+						"text",
+						"text_area"
+					],
+					[
+						"up",
+						"upload_services"
+					],
+					[
+						"qa",
+						"qa_updated"
+					],
+					[
+						"slidesh",
+						"slideshow_container"
+					],
+					[
+						"background",
+						"background-image"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"set",
+						"setupShareTools"
+					],
+					[
+						"ret",
+						"return_object"
+					],
+					[
+						"anno",
+						"annotation"
+					],
+					[
+						"pic",
+						"pictures"
+					],
+					[
+						"script",
+						"script_tags"
+					],
+					[
+						"man",
+						"mainifest"
+					],
+					[
+						"data_source_",
+						"data_source_type"
+					],
+					[
+						"pre",
+						"preimg"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/204451/Documents/griddle_numodal/src/javascripts/numodal.js",
+					"settings":
+					{
+						"buffer_size": 27175,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/204451/Documents/griddle_numodal/src/stylesheets/numodal.css",
+					"settings":
+					{
+						"buffer_size": 11511,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/204451/Documents/griddle_numodal/embed_builder_test.html",
+					"settings":
+					{
+						"buffer_size": 1027,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/204451/Documents/griddle_numodal/src/nytint-base.js",
+					"settings":
+					{
+						"buffer_size": 143,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 147.0,
+				"selected_items":
+				[
+					[
+						"show",
+						"Git: Show Current File"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"latest",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"pretty",
+						"HTMLPrettify: Prettify"
+					],
+					[
+						"log",
+						"Git: Log Current File"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"qui",
+						"Git: Quick Commit"
+					],
+					[
+						"sho",
+						"Git: Show Current File"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"wrap",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"case",
+						"Convert Case: Upper Case"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"CAS",
+						"Convert Case: Lower Case"
+					],
+					[
+						"CASE",
+						"Convert Case: Title Case"
+					],
+					[
+						"wrao",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"pack",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"SHOW",
+						"Git: Show Current File"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"rails",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"parti",
+						"Rails Partial: Create Partial from Text"
+					],
+					[
+						"lates",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"lint",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"tid",
+						"Tidy HTML"
+					],
+					[
+						"ti",
+						"Tidy HTML"
+					],
+					[
+						"lat",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"part",
+						"Rails Partial: Create Partial from Text"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"late",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"jac",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"quic",
+						"Git: Quick Commit"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"lin",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"oack",
+						"Package Control: List Packages"
+					],
+					[
+						"push",
+						"Git: Push Current Branch"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"pac ins",
+						"Package Control: Install Package"
+					],
+					[
+						"log c",
+						"Git: Log Current File"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"la",
+						"Rails Latest Migration: Open latest Rails migration"
+					],
+					[
+						"re in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pull",
+						"Git: Pull Current Branch"
+					],
+					[
+						"git  re",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"git q",
+						"Git: Quick Commit"
+					],
+					[
+						"git rese",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git show",
+						"Git: Show Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"show err",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pack lis",
+						"Package Control: List Packages"
+					],
+					[
+						"pacl",
+						"Package Control: Enable Package"
+					],
+					[
+						"packag",
+						"Package Control: Disable Package"
+					],
+					[
+						"sim",
+						"Simple Rails Navigator: List views"
+					],
+					[
+						"simple",
+						"Simple Rails Navigator: List controllers"
+					],
+					[
+						"git ",
+						"Git: Quick Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"gist:",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"git di",
+						"Git: Diff All"
+					],
+					[
+						"git b",
+						"Git: Blame"
+					],
+					[
+						"git  stat",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/204451/Documents/griddle_numodal/build/griddle-a0d69cc1f7c80974d0edd3695fac3f9d.js",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/pourover.js",
+				"/Users/204451/Documents/timeline/config/database.yml",
+				"/Users/204451/Documents/timeline/config/application.rb",
+				"/Users/204451/Documents/timeline/config/environments/staging.rb",
+				"/etc/hosts",
+				"/Users/204451/Documents/timeline/app/models/timeline.rb",
+				"/Users/204451/Documents/timeline/config/environments/production.rb",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/frontend/Timeline.js",
+				"/Users/204451/Documents/timeline/app/models/annotation.rb",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/frontend/Timeline.css",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/frontend/NYTMMTimeline.css",
+				"/Users/204451/Documents/timeline/app/models/medium.rb",
+				"/Users/204451/Documents/timeline/app/views/annotations/_annotation_form.html.erb",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/annotations.js.erb",
+				"/Users/204451/Documents/timeline/Guardfile",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/timeline.css",
+				"/Users/204451/Documents/multimedia_svn/HTML/projects/2012/ConventionHangouts/README.txt",
+				"/Users/204451/Documents/grandmominator/lib/tasks/procedures.rake",
+				"/Users/204451/Documents/grandmominator/Gemfile",
+				"/Users/204451/Documents/grandmominator/Guardfile",
+				"/Users/204451/Documents/grandmominator/db/migrate/20130624201607_add_moderated_at_to_submissions.rb",
+				"/Users/204451/Documents/grandmominator/db/migrate/20130617205428_add_submission_groups.rb",
+				"/Users/204451/Documents/grandmominator/lib/tasks/publish.rake",
+				"/Users/204451/Documents/grandmominator/public/projects/procedures/colonoscopy.html",
+				"/Users/204451/Documents/grandmominator/public/projects/procedures/concat.sh",
+				"/Users/204451/Documents/grandmominator/lib/tasks/proceedures.rake",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/numodal_default.jst.ejs",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/numodal.js",
+				"/Users/204451/Documents/griddle_numodal/embed_builder_test.html",
+				"/Users/204451/Documents/griddle_numodal/src/stylesheets/numodal.css",
+				"/Users/204451/Documents/griddle_numodal/src/javascripts/phototransformer.js",
+				"/Users/204451/Documents/griddle_numodal/Gemfile",
+				"/Users/204451/Documents/griddle_numodal/Rakefile",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/colonoscopy.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/coffeescripts/colonoscopy.coffee",
+				"/Users/204451/Documents/lasso/config/mongoid.yml",
+				"/Users/204451/Documents/lasso/app/views/projects/bookmarklets.html.erb",
+				"/Users/204451/Documents/lasso/config/environments/production.rb",
+				"/Users/204451/Documents/lasso/app/views/projects/_comment_placer_bookmarklet.js.erb",
+				"/Users/204451/Documents/lasso/config/application.rb",
+				"/Users/204451/Documents/lasso/public/assets/comment_placer_viewer.css",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_picker.js",
+				"/Users/204451/Documents/lasso/app/assets/coffeescripts/comment_picker.coffee",
+				"/Users/204451/Documents/lasso/Guardfile",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_picker_app.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/comment_placer_admin.js",
+				"/Users/204451/Documents/lasso/app/assets/coffeescripts/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/lasso/app/assets/coffeescript/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/grandmominator/app/views/admin/index.html.erb",
+				"/Users/204451/Documents/grid_gallery_reboot/src/stylesheets/numodal.css",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/numodal.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/images_loaded.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/nytint-base.js",
+				"/Users/204451/Documents/grid_gallery_reboot/embed_builder_test.html",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/pourover.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/backbone-1.0.0.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/numodal.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/nytint-base-45670d3764a43be0e295a19eeea0170b.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/nytint-base-f0af59521b317aef732d98893caf7a34.js",
+				"/Users/204451/Documents/grid_gallery_reboot/build/griddle-3ef51e53c7c1949d7f95b5784e85f79c.js",
+				"/Users/204451/Documents/lasso/vendor/assets/javascripts/.keep",
+				"/Users/204451/Documents/lasso/.gitignore",
+				"/Users/204451/Documents/lasso/config/environments/development.rb",
+				"/Users/204451/Documents/lasso/app/assets/images/lasso_comment_picker.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/lasso_comment_placer.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/application.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/stylesheets/colonoscopy.css",
+				"/Users/204451/Documents/timeline/app/controllers/publish_controller.rb",
+				"/Users/204451/Documents/timeline/config/routes.rb",
+				"/Users/204451/Documents/timeline/app/views/timelines/show.html.erb",
+				"/Users/204451/Documents/timeline/.rvmrc",
+				"/Users/204451/Documents/timeline/Gemfile",
+				"/Users/204451/Documents/timeline/app/assets/javascripts/bootstrap.js",
+				"/Users/204451/Documents/blade-chef/data_bags/apps/flashmob.json",
+				"/Users/204451/Documents/flashmob/app/controllers/admin_controller.rb",
+				"/Users/204451/Downloads/manifest.yml",
+				"/Users/204451/Documents/grandmominator copy/public/projects/proceedures/javascripts/colonoscopy.js",
+				"/Users/204451/Documents/timeline/config/environments/internal_production.rb",
+				"/Users/204451/Documents/timeline/app/views/publish/vertical/preview.html.erb",
+				"/Users/204451/Documents/grandmominator/build.sh",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/chapter_tracking.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/concat.sh",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/nyt.html",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/colonoscopy.html",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/jquery.wordcount.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/minified/procedures1.js",
+				"/Users/204451/Documents/grandmominator/public/projects/proceedures/javascripts/comments.js",
+				"/Users/204451/Documents/grandmominator/config/application.rb",
+				"/Users/204451/Documents/grandmominator/app/views/layouts/error.html.erb",
+				"/Users/204451/Documents/grandmominator/app/models/submission.rb",
+				"/Users/204451/Documents/grandmominator/app/models/project.rb",
+				"/Users/204451/Documents/grandmominator/app/views/submission/_collect.html.erb",
+				"/Users/204451/Documents/grandmominator/.rvmrc",
+				"/Users/204451/Documents/grandmominator/vendor/cache/multi_json-1.7.3.gem",
+				"/Users/204451/Documents/lasso/Gemfile",
+				"/Users/204451/Documents/lasso/app/models/item.rb",
+				"/Users/204451/Documents/lasso/public/stylesheets/bookmarklet_payload.css",
+				"/Users/204451/Documents/lasso/app/controllers/buckets_controller.rb",
+				"/Users/204451/Documents/lasso/app/controllers/items_controller.rb",
+				"/Users/204451/Documents/lasso/config/routes.rb",
+				"/Users/204451/Documents/lasso/public/coffeescript/bookmarklet_payload.coffee",
+				"/Users/204451/Documents/lasso/app/controllers/projects_controller.rb",
+				"/Users/204451/Documents/lasso/public/stylesheets/namespaced_bootstrap.css",
+				"/Users/204451/Documents/lasso/app/models/project.rb",
+				"/Users/204451/Documents/lasso/public/javascripts/bookmarklet_loader.js",
+				"/Users/204451/Documents/lasso/public/javascripts/bookmarklet_payload.js",
+				"/Users/204451/Documents/lasso/app/models/bucket.rb",
+				"/Users/204451/Documents/lasso/app/models/comment_api.rb",
+				"/Users/204451/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/204451/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/bookmarklet_loader.js",
+				"/Users/204451/Documents/lasso/app/assets/javascripts/bookmarklet_payload.js",
+				"/Users/204451/Documents/lasso/app/assets",
+				"/Users/204451/Documents/timeline/app/assets/stylesheets/annotations.css",
+				"/Users/204451/Documents/timeline/README.md",
+				"/Users/204451/Documents/timeline/README.rdoc",
+				"/Users/204451/Documents/blade-chef/data_bags/apps/infrastructure.json",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/griddle_default.jst.ejs",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/require.js",
+				"/Users/204451/Documents/grid_gallery_reboot/griddle.html",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/griddle.js",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/phototransformer.js",
+				"/Users/204451/Documents/grid_gallery_reboot/embed_builder.html",
+				"/Users/204451/Documents/grid_gallery_reboot/slideshow.html",
+				"/Users/204451/Documents/grid_gallery_reboot/.gitignore",
+				"/Users/204451/Documents/grid_gallery_reboot/grid_gallery_reboot.sublime-project",
+				"/Users/204451/Documents/grid_gallery_reboot/src/javascripts/griddle_category_default.jst.ejs"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"*.js",
+					"",
+					"question_response_0",
+					"",
+					"*erb",
+					"*.js",
+					"*.js.erb",
+					".js.erb",
+					"",
+					"app/views",
+					"",
+					"*",
+					"",
+					"app/view*",
+					"app/view",
+					"app/*",
+					"",
+					"app/*",
+					"",
+					"*erb",
+					"",
+					"*.rb",
+					".rb",
+					"",
+					"*frontend*.js",
+					"*.js",
+					".js",
+					"",
+					"*.css",
+					"",
+					"*timelinea*",
+					"",
+					"*.css",
+					"",
+					"*.js",
+					"",
+					"*.css",
+					".css",
+					"",
+					"*.css",
+					"",
+					"/Users/204451/Documents/mmadmin/app/",
+					"/Users/204451/Documents/mmadmin/app/views/timelineator",
+					"",
+					"*.css",
+					"",
+					"*.js",
+					"",
+					"app/*.erb",
+					"app/",
+					"",
+					"*.css",
+					"*",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"*",
+					"app/*",
+					"app*",
+					"/app*",
+					"",
+					"*js*",
+					"*.js",
+					"",
+					"*/app*",
+					"/app*",
+					"",
+					"*/javascripts/*",
+					"*",
+					"app/*",
+					"",
+					"/Users/204451/Documents/mmadmin/public/stylesheets",
+					"*.css",
+					"*",
+					"*.rb",
+					"*",
+					"*.rb",
+					"*",
+					"*.erb",
+					"*",
+					"",
+					"interactives",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"hide",
+					"pops",
+					"pop",
+					"isTouch",
+					"/* Highlighted Pagination */\n",
+					"0.8",
+					".8",
+					"8",
+					"0.5",
+					"light",
+					"impo",
+					"15",
+					"hide",
+					"setT",
+					"set",
+					"setT",
+					"set",
+					"back",
+					"exten",
+					"hashtag",
+					"cons",
+					"multi",
+					"window.location",
+					"consol",
+					"config.aws_bucket",
+					"Non Feat",
+					"document_icon",
+					"graphic",
+					"image",
+					"grap",
+					"body",
+					"class",
+					"refer",
+					"partial_name",
+					"arti",
+					"non-fea",
+					"media",
+					"data_vault",
+					"data_valut",
+					"1069",
+					"procedures_span_graphic",
+					"51.203.44.com",
+					"localhost.nytimes",
+					"•",
+					"\\n+",
+					"\\n\\n",
+					"texta",
+					"procedure discussed\n",
+					"person_name",
+					"person_name\n",
+					"person_name",
+					"location",
+					"loca",
+					"location",
+					"where",
+					"form_submit",
+					"@submit_fields",
+					"submit_fields",
+					"answer",
+					"answer\n",
+					"greenwa",
+					"answer",
+					"@answer",
+					"answer",
+					"vform",
+					"form_submit",
+					"vform_submit",
+					"scott",
+					"form_submit",
+					"active_question",
+					"gmom_sid",
+					"scott",
+					"trac",
+					"\"",
+					"\"\n",
+					"\"",
+					"live",
+					"proceed",
+					"proceedures",
+					"procee",
+					"send",
+					"log",
+					"okok",
+					".data",
+					"push",
+					"bind",
+					"pop",
+					"location",
+					"push",
+					"upda",
+					"log",
+					"pushS",
+					"replaceS",
+					"pushS",
+					"updateUrl",
+					"replaceS",
+					"pushS",
+					"pushState",
+					"replaceState",
+					"view",
+					"bindPagers",
+					"' ",
+					" '",
+					"unbin",
+					"bind",
+					"clear",
+					"image",
+					"url",
+					"theme",
+					"bindEvents",
+					"numodal_opts",
+					"numodal_defaults",
+					"numodal_extension",
+					"makeModal",
+					"title",
+					"url",
+					"numodal_opts",
+					"numodal_defaults",
+					"\n\nnumodal_defaults",
+					"numodal_defaults\nnumodal_defaults",
+					"numodal_defaults\n",
+					"numodal_defaults",
+					"_",
+					"templa",
+					"modal",
+					"target-",
+					"image",
+					"numodal_image"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\n\\n",
+					" ",
+					"•",
+					" ",
+					"@slugs()[index]",
+					"@slugs[index]",
+					"-",
+					"",
+					"\"",
+					"\\n",
+					",\\n",
+					"\"\\n",
+					"\"",
+					"",
+					"\\n",
+					"",
+					" ",
+					"",
+					"question_response_0",
+					"\"\\n",
+					"\\n",
+					"person_name",
+					",\\n",
+					"question_id",
+					"</h4>",
+					"<h4>",
+					"",
+					"\\^",
+					"^",
+					"",
+					"\\n",
+					"",
+					"numodal.css",
+					"griddle.css",
+					"griddle.js",
+					"this.isTouch()",
+					"dismiss",
+					"",
+					"\"",
+					"",
+					"\\n",
+					"\\\\\\n",
+					"\\\\n",
+					"/\\n",
+					"\\n/",
+					"\"",
+					" ",
+					",\\n",
+					"\\n",
+					"",
+					"\\n",
+					"\\n\\n",
+					"\\n",
+					"annotator_",
+					"interactives",
+					"",
+					"Annotator::Application",
+					"\\n",
+					"\\n\\n",
+					"",
+					"\\n",
+					"<%= link_to('Multimedia Admin', root_path, {:class=>\"brand\"}) %>",
+					"=> 'http://dealbook.nytimes.com/2013/02/04/u-s-and-states-prepare-to-sue-s-p-over-mortgage-ratings/',",
+					",\\n",
+					"\",\\n",
+					"&lt; Back",
+					"btn btn-primary",
+					"btn btn-small",
+					"btn btn-danger",
+					"btn btn-success",
+					"alert alert-block alert-info",
+					"<a class=\"brand\" href=$1</a>",
+					"<a href=$1</a>",
+					"$2",
+					"$3",
+					"$4",
+					"$1$2$3$4",
+					"$1",
+					"\"navbar navbar-inverse navbar-fixed-top\"",
+					"alert-block",
+					"alert",
+					"span12",
+					"span6",
+					"class=\"navbar-inner\"",
+					"navbar navbar-fixed-top",
+					"navbar",
+					"\\n",
+					"",
+					"$1",
+					"%1",
+					"$1",
+					";",
+					",\\n",
+					"\"$1\"\\,",
+					"\"$1\",",
+					"\"$1\"",
+					"$1",
+					"/1",
+					"\\n",
+					"",
+					"\\t",
+					"t",
+					"\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/204451/Documents/griddle_numodal"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/204451/Documents/griddle_numodal/src/javascripts/numodal.js",
+							"settings":
+							{
+								"buffer_size": 27175,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17090,
+										17090
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"ruby": "/usr/local/rvm/rubies/ruby-1.9.3-p327/bin/ruby"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7215.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/204451/Documents/griddle_numodal/src/stylesheets/numodal.css",
+							"settings":
+							{
+								"buffer_size": 11511,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4117,
+										4117
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"ruby": "/usr/local/rvm/rubies/ruby-1.9.3-p327/bin/ruby"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2712.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/204451/Documents/griddle_numodal/embed_builder_test.html",
+							"settings":
+							{
+								"buffer_size": 1027,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										447,
+										447
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"ruby": "/usr/local/rvm/rubies/ruby-1.9.3-p327/bin/ruby"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 52.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/204451/Documents/griddle_numodal/src/nytint-base.js",
+							"settings":
+							{
+								"buffer_size": 143,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										143,
+										143
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"ruby": "/usr/local/rvm/rubies/ruby-1.9.3-p327/bin/ruby"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"position": "90 354 1280 774 0 0 1920 1178 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"base",
+						"src/nytint-base.js"
+					],
+					[
+						"te",
+						"embed_builder_test.html"
+					],
+					[
+						"css",
+						"src/stylesheets/numodal.css"
+					],
+					[
+						"num",
+						"src/javascripts/numodal.js"
+					],
+					[
+						"time.rb",
+						"app/models/timeline.rb"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"pro",
+						"config/environments/production.rb"
+					],
+					[
+						"day",
+						"config/database.yml"
+					],
+					[
+						"gu",
+						"Guardfile"
+					],
+					[
+						"js",
+						"app/assets/javascripts/annotations.js.erb"
+					],
+					[
+						"timejs",
+						"app/assets/javascripts/frontend/Timeline.js"
+					],
+					[
+						"guar",
+						"Guardfile"
+					],
+					[
+						"timelin",
+						"app/models/timeline.rb"
+					],
+					[
+						"procedures.js",
+						"Javascript/projects/2013/Procedures/Procedures.js"
+					],
+					[
+						"mediaelementplayer.css",
+						"CSS/com/mediaelement/mediaelementplayer.css"
+					],
+					[
+						"procedures.css",
+						"CSS/projects/2013/Procedures/Procedures.css"
+					],
+					[
+						"rake",
+						"lib/tasks/procedures.rake"
+					],
+					[
+						"procedures_inline_comments.coffee",
+						"public/projects/procedures/coffeescripts/procedures_inline_comments.coffee"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"inlin",
+						"public/projects/procedures/coffeescripts/procedures_inline_comments.coffee"
+					],
+					[
+						"proc",
+						"lib/tasks/proceedures.rake"
+					],
+					[
+						"time",
+						"app/models/timeline.rb"
+					],
+					[
+						"phototransformer",
+						"src/javascripts/phototransformer.js"
+					],
+					[
+						"em",
+						"embed_builder_test.html"
+					],
+					[
+						"nu",
+						"src/javascripts/numodal.js"
+					],
+					[
+						".sh",
+						"public/projects/proceedures/concat.sh"
+					],
+					[
+						"guard",
+						"Guardfile"
+					],
+					[
+						"coffee",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"gua",
+						"Guardfile"
+					],
+					[
+						"count",
+						"public/projects/proceedures/javascripts/jquery.wordcount.js"
+					],
+					[
+						"index.html.erb",
+						"app/views/admin/index.html.erb"
+					],
+					[
+						"tes",
+						"embed_builder_test.html"
+					],
+					[
+						"pu",
+						"src/javascripts/pourover.js"
+					],
+					[
+						"45670d3764a43be0e295a19eeea0170b.js",
+						"build/nytint-base-45670d3764a43be0e295a19eeea0170b.js"
+					],
+					[
+						"back",
+						"src/javascripts/backbone-1.0.0.js"
+					],
+					[
+						"f0af59521b317aef732d98893caf7a34",
+						"build/nytint-base-f0af59521b317aef732d98893caf7a34.js"
+					],
+					[
+						"3ef51e53c7c1949d7f95b5784e85f79c.js",
+						"build/griddle-3ef51e53c7c1949d7f95b5784e85f79c.js"
+					],
+					[
+						"pou",
+						"src/javascripts/pourover.js"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"por",
+						"config/environments/production.rb"
+					],
+					[
+						"load",
+						"app/assets/javascripts/bookmarklet_loader.js"
+					],
+					[
+						"ig",
+						".gitignore"
+					],
+					[
+						"defini",
+						"app/assets/javascripts/lasso_comment_placer_definition.js"
+					],
+					[
+						"defni",
+						"app/assets/javascripts/lasso_comment_picker_definition.js"
+					],
+					[
+						"produc",
+						"config/environments/production.rb"
+					],
+					[
+						"stag",
+						"config/environments/staging.rb"
+					],
+					[
+						"timel",
+						"app/assets/javascripts/frontend/Timeline.js"
+					],
+					[
+						"publis",
+						"app/controllers/publish_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"show",
+						"app/views/timelines/show.html.erb"
+					],
+					[
+						"prod",
+						"config/environments/production.rb"
+					],
+					[
+						"submit",
+						"app/views/application/submit.html.erb"
+					],
+					[
+						"da",
+						"config/database.yml"
+					],
+					[
+						"timeline.rb",
+						"app/models/timeline.rb"
+					],
+					[
+						"ann",
+						"app/assets/javascripts/annotations.js.erb"
+					],
+					[
+						"rv",
+						".rvmrc"
+					],
+					[
+						"in",
+						"config/environments/internal_production.rb"
+					],
+					[
+						"interna",
+						"config/environments/internal_production.rb"
+					],
+					[
+						"timerb",
+						"app/models/timeline.rb"
+					],
+					[
+						"rvm",
+						".rvmrc"
+					],
+					[
+						"timcss",
+						"app/assets/stylesheets/frontend/Timeline.css"
+					],
+					[
+						"procon",
+						"app/controllers/projects_controller.rb"
+					],
+					[
+						"procc",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"coff",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"procee",
+						"public/projects/proceedures/minified/procedures1.js"
+					],
+					[
+						"word",
+						"public/projects/proceedures/javascripts/jquery.wordcount.js"
+					],
+					[
+						"nyt",
+						"public/projects/proceedures/nyt.html"
+					],
+					[
+						"chap",
+						"public/projects/proceedures/javascripts/chapter_tracking.js"
+					],
+					[
+						"cono",
+						"public/projects/proceedures/javascripts/colonoscopy.js"
+					],
+					[
+						"html",
+						"public/projects/proceedures/colonoscopy.html"
+					],
+					[
+						"colo",
+						"public/projects/proceedures/stylesheets/colonoscopy.css"
+					],
+					[
+						"proj",
+						"app/models/project.rb"
+					],
+					[
+						"coffe",
+						"public/projects/proceedures/coffeescripts/colonoscopy.coffee"
+					],
+					[
+						"app",
+						"config/application.rb"
+					],
+					[
+						"prora",
+						"lib/tasks/proceedures.rake"
+					],
+					[
+						"error.html.erb",
+						"app/views/layouts/error.html.erb"
+					],
+					[
+						"project.rb",
+						"app/models/project.rb"
+					],
+					[
+						"col",
+						"public/projects/proceedures/javascripts/colonoscopy.js"
+					],
+					[
+						"multi",
+						"vendor/cache/multi_json-1.7.3.gem"
+					],
+					[
+						"mod",
+						"mod.js"
+					],
+					[
+						"even",
+						"event.rb"
+					],
+					[
+						"item",
+						"app/models/item.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"itemcon",
+						"app/controllers/items_controller.rb"
+					],
+					[
+						"projcon",
+						"app/controllers/projects_controller.rb"
+					],
+					[
+						"buckcon",
+						"app/controllers/buckets_controller.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"con",
+						"app/controllers/buckets_controller.rb"
+					],
+					[
+						"gridd",
+						"src/griddle.js"
+					],
+					[
+						"jst.ejs",
+						"src/javascripts/griddle_default.jst.ejs"
+					],
+					[
+						"ign",
+						".gitignore"
+					],
+					[
+						"photo",
+						"src/javascripts/phototransformer.js"
+					],
+					[
+						"numo",
+						"src/javascripts/numodal.js"
+					],
+					[
+						"emb",
+						"embed_builder.html"
+					],
+					[
+						"",
+						"embed_builder.html"
+					],
+					[
+						"sl",
+						"slideshow.html"
+					],
+					[
+						"gri",
+						"griddle.html"
+					],
+					[
+						"h",
+						"griddle.html"
+					],
+					[
+						"ignore",
+						".gitignore"
+					],
+					[
+						"overview_controller.rb",
+						"app/controllers/overview_controller.rb"
+					],
+					[
+						"demo",
+						"websocket-demo.html"
+					],
+					[
+						"web",
+						"websocket-demo.html"
+					],
+					[
+						"help",
+						"app/helpers/forms_helper.rb"
+					],
+					[
+						"application.js",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"admin/projects/index.html.erb",
+						"app/views/admin/projects/index.html.erb"
+					],
+					[
+						"exam",
+						"app/views/admin/form_templates/example.html"
+					],
+					[
+						".js",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"forms_controller",
+						"app/controllers/admin/forms_controller.rb"
+					],
+					[
+						"form",
+						"app/models/form.rb"
+					],
+					[
+						"photo.",
+						"app/models/photo.rb"
+					],
+					[
+						"hlp",
+						"app/helpers/forms_helper.rb"
+					],
+					[
+						"cut",
+						"config/initializers/chute.rb"
+					],
+					[
+						"ny",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"formhe",
+						"app/assets/javascripts/forms/nytint_formhelpers.js"
+					],
+					[
+						"su",
+						"app/models/submission.rb"
+					],
+					[
+						"edit",
+						"app/views/admin/projects/edit.html.erb"
+					],
+					[
+						"projeccon",
+						"app/controllers/admin/projects_controller.rb"
+					],
+					[
+						"ex",
+						"app/views/admin/form_templates/example.html"
+					],
+					[
+						"admincon",
+						"app/controllers/admin/projects_controller.rb"
+					],
+					[
+						"/admin/projects/edit.html.erb",
+						"app/views/admin/projects/edit.html.erb"
+					],
+					[
+						"index",
+						"app/views/admin/projects/index.html.erb"
+					],
+					[
+						"formscon",
+						"app/controllers/forms_controller.rb"
+					],
+					[
+						"adminedit",
+						"app/views/admin/projects/edit.html.erb"
+					],
+					[
+						"admed",
+						"app/views/admin/forms/edit.html.erb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 291.0,
+			"status_bar_visible": true,
+			"window_id": 339,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/204451/Documents/grid_gallery_reboot/grid_gallery_reboot.sublime-project",
+			"/Users/204451/Documents/mmadmin/doc/mmadmin.sublime-project"
+		]
+	}
+}
